@@ -15,7 +15,7 @@ export default function FlashCardProvider(){
     const [data,setData] = useState(dataImport)
     const [mode, setMode] = useState(0)
     const [id, setId] = useState(0);
-    let dataDisplay = <FlashCard id={data[id].id} n={data[id].n} pojem={data[id].pojem} vyznam={data[id].význam} beginStatus={0} />
+    let dataDisplay = <FlashCard id={data[id].id} n={data[id].n} pojem={data[id].pojem} vyznam={data[id].význam}  />
 
     function SetMode(){
         if(mode === 0){

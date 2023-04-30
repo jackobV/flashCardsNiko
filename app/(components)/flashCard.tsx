@@ -7,8 +7,8 @@ type FlashCardType = {
     vyznam:string,
 }
 
-export default function FlashCard(props:FlashCardType, beginStatus:number){
-    const [status, setStatus] = useState(beginStatus)
+export default function FlashCard(props:FlashCardType ){
+    const [status, setStatus] = useState(0)
     function setStatusFunc() {
         if(status === 0){
             setStatus(1)
