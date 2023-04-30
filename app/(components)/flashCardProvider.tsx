@@ -41,7 +41,7 @@ export default function FlashCardProvider(){
     useEffect(()=>{
         console.log(data[id])
         console.log(id)
-        dataDisplay = <FlashCard id={data[id].id} n={data[id].n} pojem={data[id].pojem} vyznam={data[id].význam} beginStatus={0} />
+        dataDisplay = <FlashCard id={data[id].id} n={data[id].n} pojem={data[id].pojem} vyznam={data[id].význam}  />
 
     },[id])
     return(
