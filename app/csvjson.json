@@ -1,0 +1,1802 @@
+[
+  {
+    "n": 1,
+    "id": 1,
+    "pojem": "disipační systém",
+    "význam": "systém ve kterém se zvyšuje organizovanost – uspořádanost (snižuje se entropie) na úkor jeho okolí, selfessembly, nanočástice, disipace = přeměna energie z metabolismu na jinou formu energie – uvolnění energie ve formě tepla do okolí a zvyšují entropii okolí (1. termodynamický zákon)"
+  },
+  {
+    "n": 1,
+    "id": 2,
+    "pojem": "LUCA",
+    "význam": "Last universal common ancestor – poslední společný předek všech organismů, na úrovni prokaryotního organismu (membrána, buněčná stěna, cytoplazma a DNA), heterotrofní – přijímal živiny, organické látky"
+  },
+  {
+    "n": 1,
+    "id": 3,
+    "pojem": "divergence",
+    "význam": "rozbíhavost – během evoluce dochází k divergenci = přizpůsobení homologických znaků k jiné funkci (stejný základ – jiný výsledek) - končetiny mají stejný základ, ale rozlišuje se mnoho typů"
+  },
+  {
+    "n": 1,
+    "id": 4,
+    "pojem": "konvergence",
+    "význam": "sbíhavost – nezávisle na sobě vzniká stejná nebo podobná struktura – analogické znaky (jiný základ – stejný výsledek) - orgány (plachtící orgány u plazů, ptáků, letounů – z jiných základů), organismy žijící ve vodě – hydrodynamický tvar těla"
+  },
+  {
+    "n": 1,
+    "id": 5,
+    "pojem": "taxon",
+    "význam": "skupina organismů se společnými znaky a tím se odlišují od jiných taxonů v kladogramu, taxonomie – odvětví zkoumající odlišnost organismů, binomická nomenklatura – vytvoření rodového a kmenového jména (české jméno, Latinské Jméno)"
+  },
+  {
+    "n": 1,
+    "id": 6,
+    "pojem": "kladogeneze",
+    "význam": "proces štěpení evolučních linií ve fylogenezi organismů a jejich následné rozrůznění – vznik dvou oddělených linií"
+  },
+  {
+    "n": 1,
+    "id": 7,
+    "pojem": "anageneze",
+    "význam": "změna vlastností v rámci evoluční linie, evoluční novinky, vznik apomorfních znaků"
+  },
+  {
+    "n": 1,
+    "id": 8,
+    "pojem": "LECA",
+    "význam": "Last eukaryot cell ancestor – poslední společný předek eukaryot – fagocytóza, cytoskelet, semipermeabilní fosfolipidová membrána, membránové struktury, jaderná membrána obalující DNA, lineární DNA diploidní (možnost pohlavního rozmnožování), endosymbióza díky fagocytóze alfaproteobakterie – mitochondrie"
+  },
+  {
+    "n": 1,
+    "id": 9,
+    "pojem": "endosymbióza",
+    "význam": "druh symbiózy mezi dvěma organismy, kdy jeden žije v těle druhého, primární endosymbióza – vznik mitochondrie během endosymbiózy, sekundární endosybióza – sekundární plastid se 4 membránami, eukaryota sežrala ruduchu nebo zelenou řasu (SAR, krásnoočka)"
+  },
+  {
+    "n": 1,
+    "id": 10,
+    "pojem": "fylogenetika",
+    "význam": "studium evolučního vývoje skupin organismů – hledá vývojová propojení organismů, znázorňuje se ve fylogenetickém stromu (zahrnuje i čas)"
+  },
+  {
+    "n": 2,
+    "id": 11,
+    "pojem": "Grammovo barvení",
+    "význam": "Způsob dělení bakterií na základě síly a uspořádání peptidoglykanu (mureinu) v buněčné stěně"
+  },
+  {
+    "n": 2,
+    "id": 12,
+    "pojem": "plazmid",
+    "význam": "malý kruhově stočený úsek DNA, který se nachází volně v cytoplazmě bakterií."
+  },
+  {
+    "n": 2,
+    "id": 13,
+    "pojem": "epidemie",
+    "význam": "hromadné propuknutí nákazy, může propukmout víckrát, komunitní přenos (Ebola, Mor)"
+  },
+  {
+    "n": 2,
+    "id": 14,
+    "pojem": "pandemie",
+    "význam": "pokud se nákaza rozšíří na více kontinentech (HIV – pandemie je spíše u virových omenocnění)"
+  },
+  {
+    "n": 2,
+    "id": 15,
+    "pojem": "rezistence",
+    "význam": "odolnost organismu proti nepříznivým vlivům vnitřního a vnějšího prostředí"
+  },
+  {
+    "n": 2,
+    "id": 16,
+    "pojem": "spora",
+    "význam": "klidové odolné stadium – spory (u sinic akinety)"
+  },
+  {
+    "n": 2,
+    "id": 17,
+    "pojem": "desinfekce",
+    "význam": "ničení choroboplodných zárodků. Provádí se fyzikálními a chemickými metodami. Zabíjí a zakazují množení. Varem nebo chemickými látkami"
+  },
+  {
+    "n": 2,
+    "id": 18,
+    "pojem": "sterilizace",
+    "význam": "ničení všech mikroorganismů. Je to proces, který se skládá ze 3 fází. Zabíjí i spory. Důkladnější. UVC lampy, nebo 120 stupňů"
+  },
+  {
+    "n": 2,
+    "id": 19,
+    "pojem": "biofilm",
+    "význam": "Biofilm je struktura tvořena bakteriemi, která slouží k jejich adherenci, komunikaci a ochraně, přichytí se pomocí glykokalyxu"
+  },
+  {
+    "n": 2,
+    "id": 20,
+    "pojem": "fimbrie",
+    "význam": "pilus, krátká a křehká nepohyblivá vlákna na povrchu. Vyskytují se ve větším počtu. Jsou to bílkoviny uspořádané do duté šroubovice. Jsou důležité k přilnutí k povrchu. Také umožňuje předávání DNA mezi bateriemi."
+  },
+  {
+    "n": 3,
+    "id": 21,
+    "pojem": "střední lamela",
+    "význam": "u buněčné stěny rostlin, spojovací stěna mezi buňkami, vytvořena z pektinu, prostor pro mezibuněčnou komunikaci"
+  },
+  {
+    "n": 3,
+    "id": 22,
+    "pojem": "buněčná inkluze",
+    "význam": "struktura: krystalky/kapénky zásobních nebo odpadních látek buňky, pigmenty, není zapouzdřená membránou"
+  },
+  {
+    "n": 3,
+    "id": 23,
+    "pojem": "apoptóza",
+    "význam": "naprogramovaná\" buněčná smrt – pro eliminaci poškozených nebo nepotřebných buněk, lysozomy (samo-sežrání buňky)"
+  },
+  {
+    "n": 3,
+    "id": 24,
+    "pojem": "vezikuly",
+    "význam": "transportní váčky obalené membránou – pro transport mezi ER a GA, membránou a membránovými strukturami, pro jejich fungování je nezbytný fluidní charakter membrány"
+  },
+  {
+    "n": 3,
+    "id": 25,
+    "pojem": "euchromatin",
+    "význam": "většina chromatinu, DNA navázaná na histonech, méně kondenzovaný"
+  },
+  {
+    "n": 3,
+    "id": 26,
+    "pojem": "nukleozom",
+    "význam": "základní jednotka chromatinu tvořená histonovými proteiny na kterých je 2x obtočená DNA"
+  },
+  {
+    "n": 3,
+    "id": 27,
+    "pojem": "polyzomy",
+    "význam": "řada ribozomů napojenené na molekule mRNA běhen proteosyntézy"
+  },
+  {
+    "n": 3,
+    "id": 28,
+    "pojem": "glykokalyx",
+    "význam": "ochranný obal na povrchu buňky, oligosacharidy (rozvětvené, méně než 15 monosacharidů) a glykoproteiny, registrace podnětů (fyzikální, chemické, biologické), zásadní pro funkci imunitního systému rozpoznávání buněk, např. krevní skupiny A, B, AB a 0 odlišné oligosacharidy v membránách erytrocytůochranný, registrující různé typy podnětů (fyzikální, chemické, biologické), zásadní pro funkci imunitního systému kvůli schopnosti rozpoznávání buněk, zajišťuje interakci vnitřku buňky a vnějšku"
+  },
+  {
+    "n": 3,
+    "id": 29,
+    "pojem": "molekulové motory",
+    "význam": "proteiny sdružené s cytoskeletem, proteinové motory aktinového systému – myoziny, proteinové motory systému mikrotubulů – kineziny a dyneiny, přemeěna chemické energie n akinetickou (ATP – pohyb)"
+  },
+  {
+    "n": 3,
+    "id": 30,
+    "pojem": "cytosol",
+    "význam": "koloidní koncentrovaný viskózní roztok uvnitř buňky"
+  },
+  {
+    "n": 4,
+    "id": 31,
+    "pojem": "komparmentalizace buňky",
+    "význam": "rozdělení prostoru buňky do jednotlivých oddělených segmentů, oddělují vnitřní prostředí organely od cytosolu"
+  },
+  {
+    "n": 4,
+    "id": 32,
+    "pojem": "fluidní charakter",
+    "význam": "struktura membrány \"fluidní mozaika\", lipidová dvojvrstva je dvourozměrnou kapalinou, v níž jednotlivé složky nejsou pevně vázány na jednom místě, ale mohou se různě pohybovat"
+  },
+  {
+    "n": 4,
+    "id": 33,
+    "pojem": "semipermeabilita",
+    "význam": "v plazmatické membráně – propustná jen pro některé látky, malé"
+  },
+  {
+    "n": 4,
+    "id": 34,
+    "pojem": "koncentrační gradient",
+    "význam": "Membránový potenciál – rozdíl elektrického potenciálu mezi dvěma stranami biologické membrány. Z fyzikálního hlediska je to vlastně napětí na polarizované polopropustné membráně. Vzniká jako důsledek působení elektrochemického gradientu malých iontů a protonů."
+  },
+  {
+    "n": 4,
+    "id": 35,
+    "pojem": "plazmolýza",
+    "význam": "rostlinná buňka v hypertonickém prostředí buňka vodu vydává, vakuola buňky a i celá buňka se smršťují, odtrhávají od buněčné stěny"
+  },
+  {
+    "n": 4,
+    "id": 36,
+    "pojem": "plazmoptýza",
+    "význam": "živočišná buňka v hypotonickém prostředí vodu nasává, může až prasknout (hemolýza červených krvinek), rostlinná buňka zvyšuje turgor (velká vakuola)"
+  },
+  {
+    "n": 4,
+    "id": 37,
+    "pojem": "membránový receptor",
+    "význam": "bílkovinná struktura na povrchu buňky, která přijímá signály komunikace – hormonů a dalších signálníh molekuly (ligandy), enzymatická fce transportí, extraelulární matrix (proteoglykany a fibronektin), mezibuněčné spoje, vzájemné rozpoznávání buněk (glykoproteiny)"
+  },
+  {
+    "n": 4,
+    "id": 38,
+    "pojem": "spřažený transport",
+    "význam": "Aktivní transport proti koncetračnímu spádu přenos látek přes membránu za spotřeby energie (ATP) je umožněn integrálními membránové proteiny (iontové pumpy, ATPáza) Primární aktivní transport jedna látka, Sekundární aktivní transport spřažení s přenosem jiné látky ve směru koncentračního gradientu. Energie uložená ve vytvoření koncentračního gradientu, který využije pasivně přenášená částice proti směru koncentračního spádu. Gradient pro pasivní přestup druhé látky je vytvořen primárně aktivním transportním mechanismem na jiném místě membrány (např. resorpce glukózy proti gradientu a sodíku ve směru gradientu v tenkém střevě). Pro sekundárně aktivní transport se rovněž používá termín kotransport.Podle počtu přenášených částic uniport –přenášena pouze jedna molekula nebo iont, kotransport – přenášeny dvě nebo více molekul nebo iontů. Kotransport dále dělíme podle vzájemného směru přenášených částic: symport – částice jsou přenášeny stejným směrem, antiport – částice jsou přenášeny opačným směrem. sorry"
+  },
+  {
+    "n": 4,
+    "id": 39,
+    "pojem": "chemiosmotické spřažení",
+    "význam": "Spřažení syntézy ATP elektrochemickým potenciálem přes membránu. 1. stadium: transport elektronů pohání pumpu, která přenáší protony přes membránu; 2. stadium: využívá se protonový gradient a ATP-synthasa produkuje ATP Tok elektronů přes membránové komplexy mitochondrií čerpá protony z matrix do mezimembránového prostoru. Tím se zvyšuje pH matrix, která se nabíjí negativně vzhledem k mezimembránovému prostoru a cytosolu. Protony pak proudí pasivně zpět přes kanál v ATPsynthase a tento tok se využívá k syntéze ATP."
+  },
+  {
+    "n": 4,
+    "id": 40,
+    "pojem": "signální molekula",
+    "význam": "ligand, který přijde zvenku – může to být produkt jiné buňky (hormon) a přenáší informaci pro receptor, který na tuto informaci reaguje"
+  },
+  {
+    "n": 4,
+    "id": 41,
+    "pojem": "uzlová kontrola",
+    "význam": "Každá přípravná fáze je zakončena kontrolním uzlem, který má za úkol ověřit, je-li buňka připravena na přechod do další fáze. Nejvýznamnějším ze všech je kontrolní uzel v G1 fázi, který může za určitých okolností uvést buňku do G0 fáze."
+  },
+  {
+    "n": 5,
+    "id": 42,
+    "pojem": "kinetochor",
+    "význam": "Velký proteinový komplex v oblasti centromery chromozomů během mitózy nebo meiózy. Umožňuje napojení chromozomů na mikrotubuly dělicího vřeténka. Je z velké části zodpovědný za pohyb chromozomů k pólům vřeténka během anafáze"
+  },
+  {
+    "n": 5,
+    "id": 43,
+    "pojem": "dělící aparát",
+    "význam": "Složeno z mikrotubulů, vyrůstají z centrozomů mezi rozdělenou centriolou. Tvořeno mikrotubuly: astrální (do všech směrů, ukotvení a orientace), kinetochorové mikrotubuly se (napojení na kinetochory chromozomů – rozdělení chromozomů v anafázi), polární (udržují tvar vřeténka). Po mikrotubulech posuny pomocí molekulárních motorů."
+  },
+  {
+    "n": 5,
+    "id": 44,
+    "pojem": "buněčná teorie",
+    "význam": "Každá buňka pochází z jiné buňky.\" ... Společné znaky všech typů dělení: okopírování a rozdělení genetické informace, rozdělení cytoplazmy, oddělení nových buněk od sebe."
+  },
+  {
+    "n": 5,
+    "id": 45,
+    "pojem": "mitotický index",
+    "význam": "Udává frekvenci mitóz v živočišné tkáni nebo v rostlinném pletivu. Představuje podíl počtu buněk ve stádiu mitózy ku celkovému počtu buněk. Mi = počet buněk v mitóze / celkový počet buněk."
+  },
+  {
+    "n": 5,
+    "id": 46,
+    "pojem": "chromatidy",
+    "význam": "Jedno ze dvou vláken DNA zreplikovaného chromozomu. Kondenzace chromatinu na začátku M báze buněčného cyklu, sesterské chromatidy = kopie DNA vzniklé v S fázi, nesesterské chromatidy = DNA z homologního páru chromozomu (v meioze kombinace Crossing over)"
+  },
+  {
+    "n": 5,
+    "id": 47,
+    "pojem": "telomera",
+    "význam": "Zakončení vlákna DNA, ochrana před poškozením konců, brání rekombinaci, omezuje zkracování chromosomu při replikaci, koncové části jaderných chromosomů eukaryot.opakování (repetic) krátkých nukleotidových sekvencí, délka telomer úzce souvisí s buněčným cyklem a replikativním stárnutím."
+  },
+  {
+    "n": 5,
+    "id": 48,
+    "pojem": "crosing over",
+    "význam": ""
+  },
+  {
+    "n": 5,
+    "id": 49,
+    "pojem": "chiazmata",
+    "význam": "Vznik během meiózy – profáze 1. Slouží k propojení homologních párů chromozomů. Udržují 2 homologní chromozomy spojené až do metafáze 1, oddělení v anafázi 1."
+  },
+  {
+    "n": 5,
+    "id": 50,
+    "pojem": "bivalent",
+    "význam": "Sdružený pár homologních chromozomů v profázi 1. meiotického dělení, synaptopenátní komplex"
+  },
+  {
+    "n": 6,
+    "id": 51,
+    "pojem": "bazální metabolismus",
+    "význam": "Představuje spotřebu energie v klidovém stavu, v teplotně neutrálním prostředí, na lačno. Organismus \"nic nedělá\", jen je naživu. Energie je potřeba k udržení uspořádanosti, bez této energie by se organismus rozpadl. U člověka přibližně 2000 kcal na den."
+  },
+  {
+    "n": 6,
+    "id": 52,
+    "pojem": "esenciální faktory výživy",
+    "význam": "Esenciální látka je látka, kterou si tělo neumí samo vyrobit a musí ji tedy přijímat v potravě. Pro člověka to jsou nenasycené mastné kyseliny, esenciální aminokyseliny (8), vitamíny, minerály"
+  },
+  {
+    "n": 6,
+    "id": 53,
+    "pojem": "hydrolýza makromolekul",
+    "význam": "Hydrolýza je rozkladná enzymatická reakce, při které reaguje voda. Během hydrolýzy dochází ke stěpení složitějších molekul na molekuly jednodušší, štěpení glykosidové, peptidové nebo esterové vazby v makromolekulách (opak kondenzace)"
+  },
+  {
+    "n": 6,
+    "id": 54,
+    "pojem": "deaminace aminokyselin",
+    "význam": "Deaminace je proces odstraňující aminoskupiny (-NH2) z molekul. V lidském těle deaminace probíhá primárně v játrech, i když glutamát se deaminuje také v ledvinách. Deaminace je proces, kterým jsou aminokyseliny rozebírány, když je v těle příliš mnoho bílkovin. Aminoskupina je odstraněna z aminokyseliny a je přeměněna na amoniak (čpavek) za vzniku 2-oxo- (α-keto-) kyseliny a spotřeby molekul ATP. Typické pro paryby, obojživelníky a savce."
+  },
+  {
+    "n": 6,
+    "id": 55,
+    "pojem": "chilomikron",
+    "význam": "Chylomikron je lipoproteinová částice o průměru 0,1–1 mikrometru a o velmi nízké hustotě (méně než cca 0,95–1 g/ml). Z lipoproteinových částic je největší, ale dosahuje nejmenšího zastoupení proteinové složky. Ke absobována do lymfatcých cév v klcích. Na jejich vzniku se podílí žluč (žlučové kyseliny, mucin, bilirubin, cholesterol) , chilomikrony exocytózou přechází do lymfy. Především ve dvanáctníku se velké agregáty tuku rozdělí na micely."
+  },
+  {
+    "n": 6,
+    "id": 56,
+    "pojem": "emulgace",
+    "význam": "Žlučové kyseliny jsou obsaženy ve žluči, fungují ve formě solí. Mají schopnost emulgovat lipidy, především ve dvanáctníku se velké agregáty tuku rozdělí na droběnější micely tuku, snáze rozkladatelné lipázami a vstřebávání přes stěny střev. Emulgace je proces vzniku emulze. Emulze je heterogenní směs dvou kapalin, které se vzájemně samovolně nesměšují."
+  },
+  {
+    "n": 6,
+    "id": 57,
+    "pojem": "beta oxidace MK",
+    "význam": "Beta-oxidace je proces, při němž dochází k postupné oxidaci mastných kyselin (řetězec delší než 8 uhlíků) až na acetyl-CoA, který dále postupuje do citrátového cyklu. Je zdrojem energie (u savců především pro srdce a játra). Jejím opakem je syntéza mastných kyselin, která se používá k ukládání energie (slučování molekul acetyl-CoA až ke vzniku lipidu jako úschovny energie)."
+  },
+  {
+    "n": 6,
+    "id": 58,
+    "pojem": "látkový metabolismus",
+    "význam": "Metabolismus (z řeckého metabolé – změna, přeměna) neboli energetická a látková přeměna je soubor chemických reakcí v organismech, které udržují jejich život. Látkový́ metabolismus je přeměna látek, zahrnuje skladné a rozkladné děje. Tedy přeměna potravy na stavební kameny bílkovin, lipidů, sacharidů, nukleových kyselin. Organismus přijímá z vnějšího prostředí látky a zpracuje se na své vlastní."
+  },
+  {
+    "n": 6,
+    "id": 59,
+    "pojem": "glukoneogeneze",
+    "význam": "Glukoneogeneze je sled reakcí, při kterém se v játrech a méně v ledvinách při dlouhodobém hladovění) syntetizuje glukóza, která je nezbytným palivem v organismu (NS, erytrocyty a regulace glykémie v krvi 3,3 až 6,6 mmol/l). Glukoneogeneze zdánlivě připomíná obrácenou glykolýzu, ale všechny její reakce nejsou přesně opačné od těch v glykolýze, poněvadž tomu brání termodynamické bariéry. Vzniká z necukerných sloučenin např. laktátu (Coriho cyklus), z glycerolu (katabolismus lipidů), AMK (glukosa-alaninový cyklus). AMK aminokyseliny se buď přímo přeměňují na pyruvát, nebo z nich vzniká v citrátovém cyklu oxalacetát."
+  },
+  {
+    "n": 6,
+    "id": 60,
+    "pojem": "energetický metabolismus",
+    "význam": "Metabolismus (z řeckého metabolé – změna, přeměna) neboli energetická a látková přeměna je soubor chemických reakcí v organismech, které udržují jejich život. Energetický metabolismus je přeměna energie z potravy na energii buněčných procesů. Část energie se přemění na práci pro organismus, uvolní ve formě tepla, uloží příjem energie z potravy uvolnění energie z živin a jejich využití) kinetická energie, energie chemické vazby)."
+  },
+  {
+    "n": 7,
+    "id": 61,
+    "pojem": "fykobilizomy",
+    "význam": "Bílkovinná struktura, která se nachází na povrchu thylakoidů sinic/ruduch/glaukofyt. Obsahují doprovodná fotosyntetická barviva (fykocyanin, fykoerytrin)"
+  },
+  {
+    "n": 7,
+    "id": 62,
+    "pojem": "pyrenoid",
+    "význam": "Pyrenoid je střediskem fixace CO2 v chloroplastech řas. Obsahuje enzym RuBisCO"
+  },
+  {
+    "n": 7,
+    "id": 63,
+    "pojem": "fotosenzory rostlin",
+    "význam": "Fotosenzory informují rostlinu o světelných podmínkách na stanovišti, například o směru a intenzitě dopadajícího záření, jeho vlnové délce... Pro rostliny jsou vzhledem k jejich fototrofii velmi důležité. Fytochromy – v cytoplazmě, aktivované červeným světlem. Kryptochromy - v jádře, aktivované modrou složkou světla. Fototropiny – v membráně, předávají informace o směru dopadajícího světla a umožňují fototropismus (ohyb rostlin směrem ke světlu). Senzory pro UV záření."
+  },
+  {
+    "n": 7,
+    "id": 64,
+    "pojem": "chlorofyl",
+    "význam": "Chlorofyl je zelený pigment obsažený v zelených rostlinách, sinicích a některých řasách. V průběhu fotosyntézy absorbuje energii světelného záření a používá ji k syntéze sacharidů z oxidu uhličitého a vody."
+  },
+  {
+    "n": 7,
+    "id": 65,
+    "pojem": "reakční centrum fotosystému",
+    "význam": "Fotosystém je označení pro velký proteinový komplex (reakční centrum) účastnící se fotosyntézy a nacházející se na membráně tylakoidů rostlin, řas atd. Jedná se o enzym, který s pomocí světla redukuje molekuly. Na fotosystémech se odehrává elektronový a protonový transportní řetězec fotosyntézy."
+  },
+  {
+    "n": 7,
+    "id": 66,
+    "pojem": "elektrontransportní řetězec",
+    "význam": "Elektronový transportní řetězec je kaskáda molekul, skrz něž jsou přenášeny elektrony za postupného poklesu jejich energie. Mobilní – plastochinon (PQ), plastocyanin (PC), ferredoxin (redukuje NADP na NADPH + H+). Stacionární – cytochrom (zajišťuje přenos elektronů tak, že se vázané ionty železa střídavě redukují a oxidují z Fe²⁺ na Fe³⁺ a zpátky.)"
+  },
+  {
+    "n": 7,
+    "id": 67,
+    "pojem": "RuBisCO",
+    "význam": "RuBisCO je enzym, který katalyzuje karboxylaci neboli fixaci CO2 v Calvinově cyklu temnostní fáze fotosyntézy (na ribulosa-1,5-bisfosfát se váže CO2) a\n  oxidaci substrátu CO2 pro fotosyntézu při fotorespiraci (na ribulosa-1,5-bisfosfát se váže O2). Může funovat jeko fixátor CO2 v Calvinově cyklu a oxiduje substrát CO2 pro fotosyntézu při fotorespiraci (na ribulosa-1,5-bisfosfát se váže O2)."
+  },
+  {
+    "n": 7,
+    "id": 68,
+    "pojem": "fotorespirace",
+    "význam": "Fotorespirace (světelné dýchání rostlin) je proces, při němž rostlina přijímá kyslík a produkuje CO2. Probíhá na světle."
+  },
+  {
+    "n": 7,
+    "id": 69,
+    "pojem": "C4",
+    "význam": "Hatchův–Slackův cyklus je jeden z cyklů fixace oxidu uhličitého probíhající v temnostní fázi fotosyntézy (sekundární děje). Bývá nazýván také C4-cyklus, protože prvním stabilním meziproduktem je čtyřuhlíkatý oxalacetát. C4-rostliny koncentrují CO2 fixací do malátu (kyseliny jablečné), ze kterého je potom uvolňován do Calvinova cyklu. Tímto způsobem výrazně snižují ztráty způsobené fotorespirací, ale zároveň spotřebují více energie (2 ATP navíc), a proto jsou většinou teplomilné nebo tropické. Fáze fotosyntézy jsou PROSTOROVĚ ODDĚLENÉ"
+  },
+  {
+    "n": 7,
+    "id": 70,
+    "pojem": "CAM",
+    "význam": "Je obměnou Hatch-Slackova cyklu (C4-cyklus) a svůj název dostal podle čeledi tlusticovitých rostlin (lat. Crassulaceae), u nichž byl poprvé pozorován. CAM rostliny jsou pouštní (např. sukulenty). Fáze fotosyntézy jsou ČASOVĚ ODDĚLENÉ."
+  },
+  {
+    "n": 8,
+    "id": 71,
+    "pojem": "kapilarita",
+    "význam": "Kapilarita= vzlínavost. Kapilarita je jedním z dějů, který pohání rozvod vody xylémem. Kapilarita je umožněna kohezí (soudržnost molekul vody) a adhezí (přilnavost vody ke stěnách cév)"
+  },
+  {
+    "n": 8,
+    "id": 72,
+    "pojem": "gutace",
+    "význam": "Výdej přebytečného množství vody přes vodní skuliny = hydatody. Ke gutaci dochází při vysoké vlhkosti vzduchu a velkém nadbytku vody v rostlině."
+  },
+  {
+    "n": 8,
+    "id": 73,
+    "pojem": "periodicita růstu",
+    "význam": "Růst rostlin není stále stejný – kolísá během dne a noci i během roku. Rychlost růstu se zpravidla zrychluje v noci, a přes den se zpomaluje. Roční periodicita růstu je dána změnou podmínek prostředí v jednotlivých ročních obdobích."
+  },
+  {
+    "n": 8,
+    "id": 74,
+    "pojem": "fytohormony",
+    "význam": "Jsou vnitřním faktorem ovlivňující růst rostliny. Dělíme na dvě skupiny – 1. stimulátory, které povzbuzují růst –> auxiny – v dělivých pletivech, stimuluje dělení buněk, prodlužovací růst, růst postranních a adventivních kořenů, giberliny a cytokininy. 2. inhibitory, které tlumí růst – Ethylen – plynný hormon-> vzniká rozkladem chemických látek-> ven se dostává průduchy-> může tak ovlivnit jiné rostliny. Omezuje růst kořenů a prodlužování, stimuluje stárnutí a opad květů a listů. Urychluje dozrávání plodů-> vpustí se do skladů s nedozrálým ovocem, kyselina abscisová"
+  },
+  {
+    "n": 8,
+    "id": 75,
+    "pojem": "lichenismus",
+    "význam": "Pevný, stabilní a soběstačný vztah mezi houbou (mykobiontem) a řasou nebo sinicí (fotobiontem). Fotobiont dodává tomu druhému asimiláty, zatímco mykobiont zajišťuje zdroj vody a minerálních látek, kterými fotobionta zásobuje. Touto symbiózou vzniká nový organismus -> lišejník"
+  },
+  {
+    "n": 8,
+    "id": 76,
+    "pojem": "mixotrofie",
+    "význam": "typ výživy některých rostlin, které jsou nebo mohou být současně nebo střídavě autotrofní (tj. fotosyntetizují) i heterotrofní (tj. přijímají org. látky z prostředí), např. masožravé rostliny, některé řasy."
+  },
+  {
+    "n": 8,
+    "id": 77,
+    "pojem": "mykorhiza",
+    "význam": "Symbiotické soužití hub s kořeny vyšších rostlin. Mycelium (podhoubí) se obaluje kořeny sousední rostliny. Díky široce rozvětvenému myceliu může houba velmi dobře přijímat vodu a minerální látky jako je fosfor a dusík, které odvádí prostřednictvím jednotlivých vláken do kořene stromu. (Voda s minerálními látkami je převáděna do listů. Z vody, oxidu uhličitého a sluneční energie vytváří fotosyntéza v buňkách listů cukr.) Zbytek cukru, který rostlina nezužitkuje putuje zpět dolu. Pro houby je to životně důležité, protože sami cukr neumí vyrobit."
+  },
+  {
+    "n": 8,
+    "id": 78,
+    "pojem": "hemiparazitismus",
+    "význam": "Poloparazitismus (hemiparazitismus) je druh soužití mezi dvěma druhy (zpravidla rostlinami), při němž parazit má schopnost fotosyntézy a z hostitele čerpá pouze anorganické látky (vodu a minerální látky). Např jmelí"
+  },
+  {
+    "n": 8,
+    "id": 79,
+    "pojem": "holoparazitismus",
+    "význam": "Vyšší parazitická nezelená heterotrofní rostlina, která ze svého hostitele čerpá vodu, minerální látky a asimiláty."
+  },
+  {
+    "n": 8,
+    "id": 80,
+    "pojem": "aktivní a pasivní pasti",
+    "význam": "Masožravé rostliny mají přeměněné listy, které slouží k vábení hmyzu. Lapají hmyz různými mechanismy, které můžeme rozdělit do dvou skupin -> aktivní a pasivní. U aktivních pastí v okamžiku podráždění rostlina vyvine bleskový pohyb a kořist polapí. (Sací měchýřek, Svírací čepel.) U pasivních pastí se kořist nalepí na lepkavý list nebo spadne do láčky. Proto aby chytla rostlina kořist nevyvíjí okamžitý pohyb. (Lepkavý list, láčka, jednosměrný tunel). (U lepkavého listu se past pomalu svírá až po nalepení hmyzu.)"
+  },
+  {
+    "n": 9,
+    "id": 81,
+    "pojem": "sítkovice",
+    "význam": "sítkovice u krytosemenných rostlin vedou asimilační proud z listu na místo spotřeby (zásobní orgány, meristémy), zůstává zachován zbytek cytoplazmy, fungují většinou jen jedno vegetační období. Na podzim se sítka ucpávají kalózou, provázeny průvodními buňkami"
+  },
+  {
+    "n": 9,
+    "id": 82,
+    "pojem": "céva a cévice",
+    "význam": "Tracheidy (= cévice) - protáhlé vřetenovité buňky, evolučně původnější než trecheje (= cévy) - protáhlé kapiláry (až několik metrů dlouhé) tvořené jednotlivými tracheálními články. V místech styku tracheálních článků jsou buněčné těny perforovány – dokonalejší transport. Tracheidy a tracheje vedou z kořenů vzestupný transpirační proud, jsou mrtvé buňky"
+  },
+  {
+    "n": 9,
+    "id": 83,
+    "pojem": "gametofyt a sporofyt",
+    "význam": "z haploidní spory mitotickým dělením vzniká GAMETOFYT (generace haploidní = pohlavní), tvoří gametangia = pohlavní orgány (pelatky a zárodečníky), v nich gamety (vaječná buňka (oosféra), spermatozoidy nebo spermatické buňky, oplozením vzniká zygota (2n) z ní mitotickým dělením vzniká SPOROFYT – generace diploidní = nepohlavní, ve výtrusorodém pletivu probíhá meióza, vznikají haploidní spory"
+  },
+  {
+    "n": 9,
+    "id": 84,
+    "pojem": "hyalocyty a chlorocyty",
+    "význam": "Hyalocyty – odumřelé buňky, velmi dobře zadržují vodu, u rašeliníků to jsou největší zásobárny vody; Chlorocyty – zelené buňky umožňující fotosyntézu, mají v sobě chloroplasty"
+  },
+  {
+    "n": 9,
+    "id": 85,
+    "pojem": "stélka",
+    "význam": "tělo bezcévných rostlin a řas, není diferencovaná na orgány, jednobuněčná (např. bičíkatá, kokální) mnohobuněčná (např. vláknitá, trichální, pletivná), buňky mohou být jedno i více jaderné"
+  },
+  {
+    "n": 9,
+    "id": 86,
+    "pojem": "trichomy",
+    "význam": "chlupy\" na pokožce rostliny. Jednobuněčné i vícebuněčné. Funkce: krytí (před přehřátím), ochrana (ostny; po odlomení uvolní pálivou tekutinu), přichytávání, absorpce (voda, déšť, rosa)"
+  },
+  {
+    "n": 9,
+    "id": 87,
+    "pojem": "průduch",
+    "význam": "Zajišťuje styk rostliny s okolním prostředím (výměnu plynů a vypařování vody) = na listech. Dvě svěrací buňky, mezi kterými se vytváří průduchová štěrbina. Její velikost se mění podle potřeb vypařování, pokud svěrací buňky nasávají vodu, mění se jejich tvar a průduch se otevírá. V opačném případě se průduchová štěrbina uzavírá. V příjmu vody K+, které podle potřeby zvyšují a snižují koncentraci uvnitř svěracích buněk."
+  },
+  {
+    "n": 9,
+    "id": 88,
+    "pojem": "kambium",
+    "význam": "sekundární meristém, mezi floémem a xylémem, produkuje sekundární xylém a floém, otevřené cévní svazky vzniká sekundární tloustnutí o mají nahosemenné a dvouděložné rostliny"
+  },
+  {
+    "n": 9,
+    "id": 89,
+    "pojem": "placentace",
+    "význam": "Část plodolistu, na kterou přisedají vajíčka, podle způsobu rozmístění vajíček, samotný proces \"zkroucení\" plodolistů, např. nákoutní, středová, nástěnná, laminální, marginální."
+  },
+  {
+    "n": 9,
+    "id": 90,
+    "pojem": "jednodomé a dvoudomé",
+    "význam": "Jednodomé – každý jedinec vytváří jak samčí, tak i samičí květy na jednom jedinci (květy mohou být jednopohlavné i oboupohlavné, ale na jedné rostlině) Dvoudomé – jednotlivá rostlina vytváří buď pouze samčí, nebo pouze samičí květy. K oplození je tedy třeba, aby byl pyl z jedné (samčí) rostliny, jejíž květy mají pouze tyčinky, přenesen na druhou (samičí), jejíž květy mají výhradně pestíky."
+  },
+  {
+    "n": 10,
+    "id": 91,
+    "pojem": "zárodečný kanibalismus",
+    "význam": "Buňky mohou vytlačovat nežádoucí obsah na ostatní buňky, aby “jedly”. Buňky, které přenášejí geny na novou generaci (primární zárodečné buňky) tvoří vnější laloky, které jsou tráveny blízkými buňkami, časté u živorodých paryb"
+  },
+  {
+    "n": 10,
+    "id": 92,
+    "pojem": "kmenová buňka",
+    "význam": "nediferenciované buňky, které mají schopnost se dělit a přeměnit na jiný buněčný typ (diferencovat), schopné obnovovat poškozené nebo opotřebované části a udržovat homeostázu organismu. Buňky s časově neomezenou schopností sebeobnovy, jejichž mitotickým dělením vzniká jedna buňka identická s mateřskou (pro udržení poolu kmenových buněk) a buňka, která může dát vzniknout alespoň jednomu vysoce diferenciovanému buněčnému typu. Totipotentní – mohou vytvořit celého nového jedince (zygota), Pluripotentní – dovedou specifikovat v jakoukoliv buňku lidského těla (endoderm, ektoderm, mezoderm), Multipotentní - více než 1 buněčný typ (kostní dřeň)"
+  },
+  {
+    "n": 10,
+    "id": 93,
+    "pojem": "proteandrický hermafrodismus",
+    "význam": "Jedinec, který produkuje nejdříve samčí pohlavní buňky, dojde k výměně mezi dvěma hermafrodity, později dozrají vajíčka a. dochází k oplození spermiemi jiného jedince"
+  },
+  {
+    "n": 10,
+    "id": 94,
+    "pojem": "ontogenetická regrese",
+    "význam": "Proces, při kterém dochází k zakrnění určité soustavy nebo orgánu během vývoje. Probíhá například u pláštěnců, larva má více pokrokových znaků než dospělec (chorda...)"
+  },
+  {
+    "n": 10,
+    "id": 95,
+    "pojem": "živoucí fosílie",
+    "význam": "Živoucí fosílie je druh nebo chudě obsazený rod, který zůstal na světě sám z původně velké skupiny."
+  },
+  {
+    "n": 10,
+    "id": 96,
+    "pojem": "hepatopankreas",
+    "význam": "→ Hepatopankreas (slinivkojaterní žláza), je funkčním analogem jater u měkkýšů či pavoukovců. O hepatopankreatu se může mluvit také v souvislosti s dravými rybami, u kterých dochází ke značnému splynutí jaterní a slinivkové tkáně."
+  },
+  {
+    "n": 10,
+    "id": 97,
+    "pojem": "žaberní oblouky",
+    "význam": "Nesou žaberní lupínky, kterými vodní organismy přijímají kyslík z vody. U ryb jsou kryty skřelemi. Z žaberních oblouků vznikají čelisti a zuby (1. oblouk zaniká; 2. a 3. přeměna na čelisti; 4. jazylka a sluchové kůstky; 6. až 9. hrtan)."
+  },
+  {
+    "n": 10,
+    "id": 98,
+    "pojem": "Chorda dorsalis",
+    "význam": "Struna hřbetní (notochord) společný znak strunatců. Vzniká z entodermu, pružná chondroidní tkáň (podobná chrupavka). Během embryonálního vývoje indukční centrum (stimuluje vývoj zárodku)"
+  },
+  {
+    "n": 10,
+    "id": 99,
+    "pojem": "tyflosolis",
+    "význam": "Záhyb zvětšující trávicí plochu střeva (u některých měkkýšů a kroužkovců) a paryb"
+  },
+  {
+    "n": 10,
+    "id": 100,
+    "pojem": "ropália",
+    "význam": "Rhopalium je smyslový orgán některých žahavců, který se vyskytuje na zvonu medúz, orgán je schopen vysílat nervové impulsy např. pro stah zvonu. Mimo to dále rhopalium často obsahuje i statocystu, tzn. rovnovážný orgán."
+  },
+  {
+    "n": 11,
+    "id": 101,
+    "pojem": "ekologická nika",
+    "význam": "souhrn životních podmínek, které umožňují životaschopnou existenci populace určitého druhu, prostor čas a podmínky"
+  },
+  {
+    "n": 11,
+    "id": 102,
+    "pojem": "ekoton",
+    "význam": "přechodná zóna, která se nachází v hraničním pásmu mezi dvěma či více sousedními společenstvy a ve které dochází k více či méně plynulé přeměně jedné biocenózy v druhou"
+  },
+  {
+    "n": 11,
+    "id": 103,
+    "pojem": "Allenovo pravidlo",
+    "význam": "Souvisí s prostředím živočichů a jejich přizpůsobení k rozdílným teplotám – endotermní živočichové v chladnějších oblastech mají kratší uši, zobák, ocas – pro měnší povrch \"přijímání\" studených teplot, naopak živočichové, kteří se nacházejí v teplejších oblastech mají tyto končetiny delší a slouží jako jejich \"chladiče"
+  },
+  {
+    "n": 11,
+    "id": 104,
+    "pojem": "zákon minima",
+    "význam": "Růst rostlin je limitován tím prvkem, který je v minimu"
+  },
+  {
+    "n": 11,
+    "id": 105,
+    "pojem": "biotop",
+    "význam": "Je to časově a rozměrově ohraničené prostředí s neživými (podnebí, vlhkost) i živými složkami (fauna, flora)"
+  },
+  {
+    "n": 11,
+    "id": 106,
+    "pojem": "epifytismus",
+    "význam": "Druh komenzalismu, rostliny používají jinou rostlinu jen jako oporu, např. sedí na větvi, je zde kvůli lepšímu příjmu světla, rostlině neodebírá žádné látky (není parazit), první + a druhý 0"
+  },
+  {
+    "n": 11,
+    "id": 107,
+    "pojem": "strategie přežívání",
+    "význam": "Dělení na r-stratégy a k-stratégy popisuje 2 přístupy k životní strategii, založené především na rychlosti růstu populace a její schopnosti přežívání. Oportunisté(r-stratégové) se vyznačují vysokou kvantitou potomků a jejich populace tak rychle roste. Na druhou stranu jsou krátkověcí. Konzervativci (k-stratégové) se naopak vyznačuji menší kvantitou potomků a jejich vyšší kvalitou. Schopnost přežití je vyšší, jsou konkurenceschopnější a dožívají se vyššího věku."
+  },
+  {
+    "n": 11,
+    "id": 108,
+    "pojem": "sukcese",
+    "význam": "nesezónní, směrovaný a kontinuální proces kolonizace a zániku populací jednotlivých druhů na určitém místě, normální proces v každém společenstvu i ekosystému, postupné změny ve struktuře a funkci společenstva v průběhu času, uspořádaný vývoj na daném místě, jedno společenstvo střídá druhé, primární sukcese – odstranění i půdy (ledovec, sopka). Sekundární sukcese (požár, větrná bouře) pouze většina žijících organismů"
+  },
+  {
+    "n": 11,
+    "id": 109,
+    "pojem": "klimaxové stádium",
+    "význam": "Stabilní, finální stadium sukcese, na počátku sukcese pionýrské druhy, které kolonizují nově vzniklá či uvolněná stanoviště. Poté osídlení další druhy organismů, lépe přizpůsobené konkrétním podmínkám prostředí. Tento proces obměny druhů a společenstev se opakuje, dokud se na stanovišti nevyvine relativně stabilní klimaxové společenstvo. postupné zvyšování biomasy, růst složitosti a stability ekosystému. Pro biom existuje charakteristická podoba klimaxových společenstev."
+  },
+  {
+    "n": 11,
+    "id": 110,
+    "pojem": "saprofytismus",
+    "význam": "Získávání živin z odumřelých těl rostlin a živočichů. Rostliny sice mohou vypadat jako saprofyté, ale ve skutečnosti jsou saprofyté houby na jejich kořenech žijící v symbióze s rostlinou. Typickými saprofyty jsou houby a bakterie."
+  },
+  {
+    "n": 12,
+    "id": 111,
+    "pojem": "inverze",
+    "význam": "Za normální situace teplota vzduchu s výškou klesá, při teplotní inverzi tomu je naopak. Jedná se o jev, kdy teplota vzduchu v určité vrstvě atmosféry s výškou stoupá. Vytvoří se na daném místě z teplého vzduchu \"poklička\", která zabraňuje promíchávání vzduchu. Inverze nejčastěji nastává v zimním období, kdy je zemský povrch promrzlý,a právě u povrchu země se díky tomu hromadí chladný vzduch. Když se nad chladný vzduch dostane vzduch teplejší, třeba z jihu tak se vytvoří inverze."
+  },
+  {
+    "n": 12,
+    "id": 112,
+    "pojem": "ÚSES",
+    "význam": "Územní Systém ekologické stability. Hlavním smyslem ÚSES je posílit ekologickou stabilitu krajiny a její obnovení. Vyhledání biocenter v krajině a jejich propojení biokoridory. – propojené systémy jsou stabilnější"
+  },
+  {
+    "n": 12,
+    "id": 113,
+    "pojem": "biodiverzita",
+    "význam": "Různorodost a rozmanitost života, organismů i ekosystémů. Lidskou činností způsobujeme její ohrožení a ovlivňujeme ji několika způsoby."
+  },
+  {
+    "n": 12,
+    "id": 114,
+    "pojem": "TUR",
+    "význam": "trvale udržitelný rozvoj. Jedná se o takový rozvoj, který současným i budoucím generacím zajistí uspokojování jejich životních potřeb a přitom nedochází ke snižování rozmanitosti přírody a zachovává funkce ekosystémů. K tomuto závěru dospěla konference pro udržitelný rozvoj, která proběhla v Rio De Janeiru"
+  },
+  {
+    "n": 12,
+    "id": 115,
+    "pojem": "LCA",
+    "význam": "Posuzování životního cyklu je metoda, která popisuje a posuzuje cyklus produktu nebo dané služby z hlediska jeho působení na životní prostředí. Posuzuje se vše od těžby nerostných surovin, přes dopravu, výrobu, užití až ke konečnému zpracování materiálu jako odpadu. Cyklus zohledňuje energetické náklady a také dopad na životní prostředí. Sledují se především emise a spotřeba energie a materiálů. \"uhlíková stopa"
+  },
+  {
+    "n": 12,
+    "id": 116,
+    "pojem": "atmosférická depozice",
+    "význam": "Přenos látek z atmosféry k zemskému povrchu. Dopad látek je vyjádřený jako hmotnost látky na jednotku plochy za určitý čas."
+  },
+  {
+    "n": 12,
+    "id": 117,
+    "pojem": "bioindikátor",
+    "význam": "Organismus či celá skupina, podle kterých lze určit vlastnosti a hodnotu prostředí ve kterém se nacházejí. Nejznámější je LIŠEJNÍK, který roste pouze na místech kde je čisté ovzduší, právě podle jeho výskytu a množství jsme schopni poznat kvalitu prostředí."
+  },
+  {
+    "n": 12,
+    "id": 118,
+    "pojem": "ozonosféra",
+    "význam": "Vrstva stratosféry s vysokým obsahem ozonu. Tato vrstva pohlcuje část ultrafialového záření a odráží kosmické záření zpět a díky tomu všemu umožňuje život na zemi. Kvůli znečišťování ovzduší chlorem a freonem dochází k blokaci ozonu a vzniká tak ozonová díra."
+  },
+  {
+    "n": 12,
+    "id": 119,
+    "pojem": "monitoring",
+    "význam": "sledování životního prostředí – analytické metody, sledování kvality ovzduší a vody, ČHMÚ (český hydrometeorologický úřad – kvalita ovzduší v ČR, mobilní monitoring (malé zelené buňky pro měření, dnes už tolik nejsou)"
+  },
+  {
+    "n": 12,
+    "id": 120,
+    "pojem": "eroze",
+    "význam": "přirozený proces, kde dochází k tomu, že materiál zemského povrchu je uvolňován, rozpouštěn a přemisťován kvůli vlivům jako jsou: voda, vítr, led... Tím dochází ke ztrátě vlastností půdy a její degeneraci. Přestože se jedná o přirozený proces tak právě lidskou činností a využíváním půdy pro hospodářské potřeby, vypoušťění škodlivých látek a také chemikálií se proces urychluje."
+  },
+  {
+    "n": 13,
+    "id": 121,
+    "pojem": "operon",
+    "význam": "Operon je určitý úsek genetického kódu prokaryotického organismu, který obsahuje více genů, ale funguje jako jedna transkripční jednotka. Sekvence nukleotidů = řada po sobě následujících genů v bakteriálním chromozómu, které mají společný promotor, jsou regulovány společným operátorem a exprimovány najednou. Tyto geny kódují většinou enzymy zapojené v jedné metabolické dráze."
+  },
+  {
+    "n": 13,
+    "id": 122,
+    "pojem": "čtecí rámec",
+    "význam": "Čtení kodonů (tripletů) závisí na tom, u kterého nukleotidu dané sekvence stanovíme počátek čtení. Otevřený čtecí jeden ze tří možných způsobů rozpoznávání tripletů v nukleotidové sekvenci. Je dán polohou nukleotidu, na kterém začíná čtení. Jsou to úseky na jednom z řetězců DNA, které začínají start kodonem a končí stop kodonem."
+  },
+  {
+    "n": 13,
+    "id": 123,
+    "pojem": "kodon",
+    "význam": "jednotka genetické informace která určuje genetický kod, ; trojice (triplet) po sobě následujících ribonukleotidů v řetězci molekuly mRNA, která při translaci určuje (kóduje) zabudování určitého druhu aminokyseliny do polypeptidového řetězce. Trojice nukleotidů v mRNA však může plnit i další funkce (viz kodon iniciační a terminační, start kodon = AUG, stop kodon = UAA, UAG, UGA"
+  },
+  {
+    "n": 13,
+    "id": 124,
+    "pojem": "semikonzervativní",
+    "význam": "1958 – Matthew Meselson a Franklin Stahl pokusem (značené izotopy N14, N15) ověřili, že každá dceřiná dvoušroubovice je tvořena jedním rodičovským a jedním novým vláknem"
+  },
+  {
+    "n": 13,
+    "id": 125,
+    "pojem": "regulace exprese genu",
+    "význam": "Exprese genů je regulována podle potřeb buňky, které závisejí mimo jiné na typu a vývojovém stádiu buňky. Projevuje se při specializaci a diferenciaci buněk. DNA v každé buňce obsahuje všechny geny genomu, ale ve většině buněk je aktivní jen část v závislosti na vývojovém stádiu a tkáni a postupující diferenciaci. Probíhá na více úrovních, chromozom, regulace transkripce, translace, regulace sestřihu, epigenetika"
+  },
+  {
+    "n": 13,
+    "id": 126,
+    "pojem": "elektroforéza",
+    "význam": "separační metoda izolující molekuly o rozdílné hmotnosti, popř. odlišném elektrickém náboji, využívající jejich odlišnou pohyblivost v elektrickém poli. Rychlost pohybu částic je závislá na velikosti celkového povrchového náboje, velikosti a tvaru molekuly a její koncentraci v roztoku."
+  },
+  {
+    "n": 13,
+    "id": 127,
+    "pojem": "GMO",
+    "význam": "organismus, jehož genetický materiál (tedy DNA, příp. RNA u RNA virů) byl úmyslně změněn, a to způsobem, kterého se nedosáhne přirozenou rekombinací. Zásahy náhodné (mutace – indukované) nebo cílené. Do organismu byl metodami genetického inženýrství (transformace) cíleně přenesen gen z jiného druhu, transgenní organismus (transgenoze)"
+  },
+  {
+    "n": 13,
+    "id": 128,
+    "pojem": "reverzní transkriptáza",
+    "význam": "enzym polymeráza, který katalyzuje transkripci jednovláknové RNA do jednovláknové DNA, využíván retroviry (HIV)"
+  },
+  {
+    "n": 13,
+    "id": 129,
+    "pojem": "sekvenace DNA",
+    "význam": "zjištování pořadí nukleotidů v řetězci DNA, rychlý rozvoj mnoha metod, zjištěno mnoho gemonů organismů, význam v diagnostice, výzkumu biologických procesů, ale i v aplikovaných oborech, jimiž je diagnostika nemocí či forenzní medicína"
+  },
+  {
+    "n": 13,
+    "id": 130,
+    "pojem": "PCR",
+    "význam": "Rychlé namnožení DNA pro další diagnostiku, polymerázová řetězová reakce v termocykleru (mění teplotu v intervalech), Fáze: 1. Denaturace (kolem 95 °C DNA se rozpadne na samostatná vlákna), 2. hybridizace – annealing (navázání párů primerů (kolem 50–60 °C),), 3. Elongace (syntetická fáze, při teplotě 65–75 °C. tvorba řetězců z volných nukleotidů, množství vytvořených řetězců přibývat exponenciálně."
+  },
+  {
+    "n": 14,
+    "id": 131,
+    "pojem": "alelová série",
+    "význam": "geny se 3 a více alelami, v homozygotním stavu má každá z alel svůj charakteristický fenotyp, vzájemně jsou dominantní, kodominantní, recesivní"
+  },
+  {
+    "n": 14,
+    "id": 132,
+    "pojem": "homo a heterogametické pohlaví",
+    "význam": "u typu Drosofila (savčí) samice homogametická XX, samec heterogametický XY, u Abraxas (ptačí typ samice heterogametická ZW, samec homogametický ZZ"
+  },
+  {
+    "n": 14,
+    "id": 133,
+    "pojem": "protenor",
+    "význam": "typ určení pohlaví (systém XO), samec XO, samice XX, vyskytuje se například u ploštic, rovnokřídlého hmyzu"
+  },
+  {
+    "n": 14,
+    "id": 134,
+    "pojem": "Barrovo tělísko",
+    "význam": "pozorovatelný útvar v buňce, který je tvořen nahromaděným chromatinem na vnitřní jadernou membránu. Představuje inaktivaci chromozomu X a vyskytuje se u jedinců s dvěma chromozomy X (u samic savců)"
+  },
+  {
+    "n": 14,
+    "id": 135,
+    "pojem": "superdominance",
+    "význam": "heterozygotní potomek dosahuje intenzívnějšího fenotypového projevu určitého znaku ve srovnání s oběma homozygotními rodiči (i evoluční význam – selekce proti oběma typům homozygotů)"
+  },
+  {
+    "n": 14,
+    "id": 136,
+    "pojem": "lokus",
+    "význam": "označuje místo na chromozomů, kde se vyskytuje jeden nebo více genů."
+  },
+  {
+    "n": 14,
+    "id": 137,
+    "pojem": "haplotyp",
+    "význam": "skupina genů, které jsou spolu ve vazbě a kvůli tomu jsou předávány potomkům pohromadě"
+  },
+  {
+    "n": 14,
+    "id": 138,
+    "pojem": "genetické mapy",
+    "význam": "genetická mapa – udává relativní pozice genového lokusu podle frekvence rekombinací (vazba genů, 1cM = 1% pravděpodobnost, že dojde k rekombinaci), fyzikální mapa udává absolutní hodnoty pozice genových lokusů v párech bází (bp)y,"
+  },
+  {
+    "n": 14,
+    "id": 139,
+    "pojem": "Morganovo číslo",
+    "význam": "je udáváno v centiMorganech (cM), udává, jaká je pravděpodobnost, že mezi dvěma geny dojde ke crosing-overu"
+  },
+  {
+    "n": 14,
+    "id": 140,
+    "pojem": "epigenetika",
+    "význam": "je to vědní podobor, který studuje změny v genové expresi (většinou i fenotypu), vliv vnějších faktorů na genovou expresi, změny mohou být udržovány po generace i na další generaci. Tyto změny nejsou ale způsobeny změnou nukleotidové sekvence DNA. Epigenetické jevy mohou být zděděny při mitóze i meióze, Zesílení trankripce (acetylace histonu) i oslabení transkripce (methylace cytosinu)"
+  },
+  {
+    "n": 15,
+    "id": 141,
+    "pojem": "eugenika",
+    "význam": "snaha o předcházení genetického zatížení populace, Platónova idea = pozitivní eugenika – ideální potomstvo vzejde z těch nejlepších mužů a žen\n  - je to studium metod, které povedou k dosažení o nejlepšího genetického fondu člověka – bohužel docházelo ke sterilizaci mentálně postižených, epileptiků a vězňů coby nositelů „defektních“ a nežádoucích dědičných vlastností, zneužití eugeniky – náboženství, fašismus..."
+  },
+  {
+    "n": 15,
+    "id": 142,
+    "pojem": "genetická dispozice",
+    "význam": "genotypově podmíněná choroba, ale k jejímu propuknutí (projevu) je třeba působení podmínek prostředí (např. určitý druh potravy, sluneční záření), proto, aby se vůbec projevily (např. alergie, duševní poruchy, cukrovka)"
+  },
+  {
+    "n": 15,
+    "id": 143,
+    "pojem": "aberace",
+    "význam": "odchylka genotypu, je dána mutací (genová, chromozomová, genomová)"
+  },
+  {
+    "n": 15,
+    "id": 144,
+    "pojem": "vrozené vývojové vady",
+    "význam": "odchylky od normálního prenatálního vývoje plodu, které překračují míru variability běžné populace a mohou být pro svého nositele patologické. Narušení může být jak na strukturální, tak i na funkční úrovni. Podkladem je abnormální ontogenetický vývoj, jehož příčinou mohou být faktory genetické, vnějšího prostředí (teratogeny) či multifaktoriální. vznikají na různých úrovních (podle mechanismu vzniku: malformace, dirupce, deformace, dysplazie)"
+  },
+  {
+    "n": 15,
+    "id": 145,
+    "pojem": "eufenický zásah",
+    "význam": "Lékařská metoda. Upravuje příslušný fenotyp, ale neodstraní poškozený gen (například chirurgický zákrok odstraňující rozštěp patra)."
+  },
+  {
+    "n": 15,
+    "id": 146,
+    "pojem": "sreening",
+    "význam": "metoda, která cíleně vyhledává určité choroby před její klinickou manifestací (před projevem znaků) se snahou včas zabránit jejím možným následkům, například u novorozenců, mamograf (například chirurgický zásah u"
+  },
+  {
+    "n": 15,
+    "id": 147,
+    "pojem": "teratogeny",
+    "význam": "mutageny působící během prenatálního období, nejcitlivější v 1. trimestru, vnější faktory (fyzikální, chemické, biologické), které mohou zapříčinit vznik vrozené vady nebo riziko vady zvyšují"
+  },
+  {
+    "n": 15,
+    "id": 148,
+    "pojem": "syndrom",
+    "význam": "komplex fenotypových vlastností (anomálií), symptomů, současný výskyt několika typických příznaků, které jsou typické pro definovanou klinickou diagnózu, kterou vyvolává jedna příčina (u genetických syndromů mutace)"
+  },
+  {
+    "n": 15,
+    "id": 149,
+    "pojem": "genetické poruchy metabolismu",
+    "význam": "nemoci vznikající na podkladě mutace. V těle chybí enzym pro určité děje a v důsledku toho dochází k hromadění substrátu, chybění produktu, hromadění nefunkčního enzymu, tvorba nesprávného produktu bez možnosti pokračovat v metabolické dráze\n  (Fenylketonurie = dá se řešit dietou)"
+  },
+  {
+    "n": 15,
+    "id": 150,
+    "pojem": "HUGO",
+    "význam": "Human Genome Organisation = organizace lidského genómu – stanovení pořadí nukleotidů genu v genómu člověka, mapa lidského genomu (vyhlášeno 2007), genom=soubor všech genů, je společným druhovým znakem - sekvenování (pro popojení se 13. otázkou"
+  },
+  {
+    "n": 16,
+    "id": 151,
+    "pojem": "virion",
+    "význam": "extraceluární fáze, mimo buňku a číhá, částice schopna infikovat HB a množit se v ní"
+  },
+  {
+    "n": 16,
+    "id": 152,
+    "pojem": "prion",
+    "význam": "pouze transformované bílkoviny – způsobuje onemocnění především živočichů, onemocnění NS"
+  },
+  {
+    "n": 16,
+    "id": 153,
+    "pojem": "provirus",
+    "význam": "DNA virionu se začlení do host. b., po perzistenci se z viru stává provirus"
+  },
+  {
+    "n": 16,
+    "id": 154,
+    "pojem": "perzistence",
+    "význam": "začlenění virové nukleonvé kyseliny do DNA hostitelské buňky – schopnost obnovení tvorby nukleových kyselin"
+  },
+  {
+    "n": 16,
+    "id": 155,
+    "pojem": "lytický cyklus",
+    "význam": "horizontální (viruletní) přenos, virus se v hostitelské buňce namnoží, buňka lyzuje (rozpadá se) a virus se uvolní do okolí"
+  },
+  {
+    "n": 16,
+    "id": 156,
+    "pojem": "bakteriofág",
+    "význam": "viry, které napadají jen bakterie, jejich stavba: hlavička (kapsida+NA), límeček, stažitelný dutý bičík a bazální destička"
+  },
+  {
+    "n": 16,
+    "id": 157,
+    "pojem": "kapsida",
+    "význam": "bílkovinný plášť, ve kterém je uložena NA a zároveň je tak chráněna"
+  },
+  {
+    "n": 16,
+    "id": 158,
+    "pojem": "viroid",
+    "význam": "Viroidy jsou tvořené jednořetězcovou molekulou RNA, bez bílkovinného kapsidu – především nemoci rostlin"
+  },
+  {
+    "n": 16,
+    "id": 159,
+    "pojem": "lyzogenní cyklus",
+    "význam": "není přerušena žádná fáze, ale virus místo zabití buňky uvolňuje virové partikule (částice) v malém množství, vertikální přenos"
+  },
+  {
+    "n": 16,
+    "id": 160,
+    "pojem": "permisivita",
+    "význam": "citlivost buňky vůči virionu – virion je schopný napadat buňku se specifickými receptory (poté může nastat množení viru)"
+  },
+  {
+    "n": 17,
+    "id": 161,
+    "pojem": "inteligentní designér",
+    "význam": "Inteligentní plán\", tvrzení že některé rysy vesmíru jsou lépe vysvětlitelné jako důsledek inteligentní příčiny (inteligentního designéra) a nikoli neřízeným procesem jakým je přirozený výběr. Jedná se o protiteorii k obecně uznávané teorii evoluční biologie. Snaha odborným postupem prokázat existenci inteligentní bytosti jež stála na počátku, nemusí se však jednat o Boha. Nejedná se tedy o kreaconismus, ale jsou zde podobné znaky."
+  },
+  {
+    "n": 17,
+    "id": 162,
+    "pojem": "kosmozoa",
+    "význam": "teorie panspermie = život byl na zem zavlečen z vesmíru, zárodky života podle Arrhenia; putují vesmírem a hledají kosmická tělesa, která mají příznivé podmínky"
+  },
+  {
+    "n": 17,
+    "id": 163,
+    "pojem": "sobecký gen",
+    "význam": "Fitness organismu neurčují znaky, ale alely, které se dokáží prosadit ve větším počtu. Alela nemusí být pro organismu nutně propěšná, ale chová se sobecky, tudíž v genotypu převáží."
+  },
+  {
+    "n": 17,
+    "id": 164,
+    "pojem": "teorie zamrzlé plasticity",
+    "význam": "J. Flegr – většina druhů je evolučně plastická jen bezprostředně po vzniku, docházi k růsut polymorfismu druhu, po nahromadění polymorfismu nemožnost reagovat na změny (druh evolučně zamrzne) časem vyhynutí"
+  },
+  {
+    "n": 17,
+    "id": 165,
+    "pojem": "efekt hrdla lahve",
+    "význam": "extrémní případ genetického driftu, nastává při prudkém poklesu populace, náhodně dojde k zachování pouze několika alel, některé vzácné alely udržet a jiné vymizet, z vzácných alel pak mohou vzniknout běžné – zúží genetická diverzita"
+  },
+  {
+    "n": 17,
+    "id": 166,
+    "pojem": "biologická zdatnost (fitness)",
+    "význam": "měří intenzitu přirozeného výběru, vyjadřuje schopnost konkrétního jedince předat své geny dalším generacím, relativní hodnota sloužící k porovnání úspěšnosti různých jedinců (dožít se reprodukčního věku, přivést na svět úspěšné potomky. Záleží na vlastnostech jedince i na zdatnosti ostatních jedinců v populaci. (ESS)"
+  },
+  {
+    "n": 17,
+    "id": 167,
+    "pojem": "evolučně stabilní strategie",
+    "význam": "pokud se nějaká strategie osvědčí jako funkční tak si ji organismy osvojí. Tato strategie potom zabraňuje ostatním strategiím ji narušit"
+  },
+  {
+    "n": 17,
+    "id": 168,
+    "pojem": "genetický drift",
+    "význam": "vlivem náhodných procesů, které ovlivní průběh evoluce díky náhodným úspěchům či neúspěchům jednotlivých alel v populaci, význam roste v malých populacích, čím menší je populace, tím méně alel se v ní nachází a tím více se projevuje drift"
+  },
+  {
+    "n": 17,
+    "id": 169,
+    "pojem": "speciace",
+    "význam": "je to proces vzniku nového druhu díky vzniku reprodukčně izolačních mechanismů – vnitřní a vnější, okamžitá nebo postupná, druhy speciace: parapatrická, sympratrická, alopatrická, peripatrická"
+  },
+  {
+    "n": 17,
+    "id": 170,
+    "pojem": "adaptivní radiace",
+    "význam": "Diverzifikace druhů, která umožňuje vyplnění celé řady ekologických nik. Nastane, když z původního druhu vzniknou opakovanou speciací četné druhy „potomků“, které se stávají nebo zůstávají sympatrické. Tendence začít využívat jiné ekologické zdroje a tím snížit mezidruhovou konkurenci"
+  },
+  {
+    "n": 18,
+    "id": 171,
+    "pojem": "extracelulární matrix",
+    "význam": "mezibuněčná hmota, na povrchu živočišné buňky, produkovaný membránou, dává pevnost, mezibuněčné spoje, tvořený bílkovinnými kolagenovými vlákny, proteoglykanovými molekulami (ukotvění kolagenových vláken v buňce) a fibronektinem (připevnění k bílkovinám v membráně)"
+  },
+  {
+    "n": 18,
+    "id": 172,
+    "pojem": "glykosaminoglykany",
+    "význam": "jinak nazývané i mukopolysacharidy (např.: kyselina hyaluronová, heparin), je součástí ECM (extra celulární matrix), jsou navázány na proteinovou kostru = osový protein O-glykosidovou nebo N-glykosidovou vazbou"
+  },
+  {
+    "n": 18,
+    "id": 173,
+    "pojem": "remodelace kosti",
+    "význam": "probíhá neustále během života, proces přizpůsobenní kosti na jeho proměny zatížení, zachovává její celistvost, ve 25 letech dosáhneme PBM (peak bone mass – kostní denzita) - vrchol kostní hmoty, vyrovnaná remodelace = intenzita resorpce se rovná intentitě novotvorby kosti"
+  },
+  {
+    "n": 18,
+    "id": 174,
+    "pojem": "osifikace",
+    "význam": "vznik kostní tkáně buď z chrupavky – chondrogenní osifikace (perichondriální – povrchová osifikace, endochondrální – uvnitř v chrupavce) - nahrazuje původní chrupavčitý model kosti, nebo osifikace z vaziva – desmogenní osifikace = tvorba kostních trámečků přímo ve vazivu, nejprve je kost vláknitá a poté je přestavena na spongiózní (kosti klenby lebeční)"
+  },
+  {
+    "n": 18,
+    "id": 175,
+    "pojem": "periost",
+    "význam": "okostice = hustá vazivová blána, pokrývá kostní tkáň po celém povrchu s vyjímkou konců kostí pokrytých chrupavkou, má 2 vrstvy – fibrózní = povrchní, husté svazky vláken a kambiová vrstva = hluboká, obsahuje cévy, ridší a méně uspořádané vazivo, v okostici jsou uloženy osteoblasty – důležité při regeneraci kosti"
+  },
+  {
+    "n": 18,
+    "id": 176,
+    "pojem": "fibrocyty",
+    "význam": "klidová forma vazivové buňky, vzniká z fibroblastu, ztrácí syntetickou aktivitu, je to stavební opora vaziva, má vřetenovitý tvar a je menší než fibroblast, mohou se zpětně přeměnit na fibroblasty,"
+  },
+  {
+    "n": 18,
+    "id": 177,
+    "pojem": "chondrocyty",
+    "význam": "buňky chrupavky, diferencují se z mezenchymu, jsou v lakunách, na povrchu mají výběžky, které zvětšují jejich povrch a ulehčují látkovou výměnu, produkují kolagen"
+  },
+  {
+    "n": 18,
+    "id": 178,
+    "pojem": "Inkrustace",
+    "význam": "ukládání anorganických látek do buněčných stěň – uhličitan vápenatý, oxid křemičitý, hlavně u dírkonožců a hmyzu, ale i u přesliček"
+  },
+  {
+    "n": 18,
+    "id": 179,
+    "pojem": "lamela",
+    "význam": "je v hutné kostní tkáni, která je tvořena právě lamelami ve kterých jsou uloženy osteocyty - lamely jsou uspořádány do osteonů kolem centrálního Haversova kanálku"
+  },
+  {
+    "n": 18,
+    "id": 180,
+    "pojem": "kutikula",
+    "význam": "nebuněčná vrstva pokrývacíjí povrch těl živočichů a rostlin poskytující ochranu, je vylučována pokožkou, liší se svou strukturou u rostlin a živočichů - u bezobratlých živočichů je tvořená bílkovinnou, u členovců obsahuje chitin a může tvořit pevnou zevní kostru po inkrustaci (uhličitan vápenatý)"
+  },
+  {
+    "n": 19,
+    "id": 181,
+    "pojem": "endomysium",
+    "význam": "Tenká, jemná vrstva pojivové tkáně, která obklopuje jednotlivá svalová vlákna v lidském těle. Struktura se skládá převážně z retikulárních vláken, které jsou tvořeny proteinem zvaným kolagen. V tomto potahu jsou také přítomny různé typy plavidel a dalších struktur."
+  },
+  {
+    "n": 19,
+    "id": 182,
+    "pojem": "titin",
+    "význam": "Obrovský elastický protein. Lineární a fibrální. Nachází se v sarkomeře v příčně pruhované svalovině. Každá molekul je spojena s myosinovým filamentem, sahí od Z linie do M linie. Titinové molekuly jsou velmi elastické a skládají se z nenatažitelného segmentu na úrovni A proužku. Je to zřejm nejdelší lidský protein. Titin se vytváří na ribozomu v jednotkách minut, nabo pár hodin. Titin má tendenci stahovat sval a vytváří odpor svalovému vláknu. Reaguje na to rozvolněním svých stavebních jednotek, to zvyšuje odpor k roztahování svalu."
+  },
+  {
+    "n": 19,
+    "id": 183,
+    "pojem": "adduktor a abduktor",
+    "význam": "Adduktor je sval, který v daném kloubu provádí pohyb označovaný jako addukce (pohyb směrem k ose těla). U řady kloubů je takových svalů více a pak mluvíme o skupinách adduktorů. Abduktor je označení pro sval, který v daném kloubu provádí pohyb označovaný jako abdukce (pohyb směrem od osy těla). U řady kloubů je takových svalů více a pak mluvíme o skupinách abduktorů."
+  },
+  {
+    "n": 19,
+    "id": 184,
+    "pojem": "sarkomera",
+    "význam": "Základní funkční a strukturální jednotka myofibril. Jde o ohraničený úsek myofibrily, který obsahuje tenká filamenta aktinu a silnější filamenta myosinu. Při svalové kontrakci se sarkomera zkracuje, protože se vlákna aktinu a myosinu zasouvají mezi sebe. pravidelně se opakující úsek myofibrily, ohraničený dvěma sousedními Z-liniemi."
+  },
+  {
+    "n": 19,
+    "id": 185,
+    "pojem": "sarkoplazmatické retikulum",
+    "význam": "Typ endoplazmatického retikula. Jeho hlavní funkcí je skladovat vápenaté ionty nezbytné pro činnost svalu. Čím sval reaguje rychleji, tím je množství SR v buňkách větší. Skládá se z podélných hladkých trubiček, zvaných sarkotubuly, jejichž konce ústí do vaků = cisterny."
+  },
+  {
+    "n": 19,
+    "id": 186,
+    "pojem": "bazální lamina",
+    "význam": "Vrstvička extracelulárního materiálu oddělující epitelovou tkáň od pojivové. Je to selektivní bariéra mezi tkání epitelovou a pojivovou, která je důležitá pro interakci, uložení a orientaci epitelových buněk. Pokud dojde k jejímu narušení, dochází k invazi epitelových buněk do tkáně vazivové, nebo naopak."
+  },
+  {
+    "n": 19,
+    "id": 187,
+    "pojem": "troponin a tropomyozin",
+    "význam": "Tropomyosin je protein, je součástí aktinových filament. V klidu se váže na troponin, a zabraňuje spojení mezi aktinem a myosinem. Před začátkem kontrakce se komplex troponin-tropomyosin rozpadne a tím se uvolní místo na aktinovém filamentu k navázání myosinu. Troponin je proteinový komplex, který je důležitý pro správnou funkci příčně pruhované a srdeční svaloviny. Komplex je tvořen třemi základními typy troponinů. Troponin v klidovém stavu váže na tropomyosin a váže se na aktin. Vzniklý troponin-tropomyosinový komplex brání navázání myosinu na aktin a tím brání vzniku nežádoucí kontrakce. Molekuly vápníku se váží na podjednotku troponinu, tím se změní prostorový tvar troponinu a přeruší se jeho vazba na tropomyosin. Díky tomu se myosin může vázat na aktin a poté dochází ke kontrakci."
+  },
+  {
+    "n": 19,
+    "id": 188,
+    "pojem": "kožněsvalový vak",
+    "význam": "Kožně svalový vak umožňující pohyb je tvořen hladkou svalovinou. Je spořádána ve čtyřech vrstvách: podélně, okružně, příčně a kose. Vak napíná vnitřní kapalinová kostra – hydroskelet, kterou vytváří coelomové váčky vyplněné tekutinou. Pohybu napomáhají také párové štětinky v pokožce."
+  },
+  {
+    "n": 19,
+    "id": 189,
+    "pojem": "spongin",
+    "význam": "Druh kolagenu. Vláknitého tvaru a nerozpustný ve vodě, skleroprotein. Spongin tvoří oporné pletivo většiny živočichů z kmene houbovců. Spongin dodává houbě ohebnost. Buňky, jež jej vylučují, se označují jako spongioblasty. Celkem se podařilo identifikovat už více než 100 tisíc různých variant."
+  },
+  {
+    "n": 19,
+    "id": 190,
+    "pojem": "myomery",
+    "význam": "Svalové segmenty oddělené od sebe tenkými pojivovými přepážkami; stavební jednotky svalové soustavy kopinatce, kruhoústých, paryb a ryb. Myomery jsou uspořádány po obou stranách páteře; od tohoto typu uložení svalů se odvíjí výstavba svalového systému. Jednotlivé myomery mají tvar písmene W a jejich postupné stahování působí rytmické vlnění těla, což je podstatou plavacího pohybu ryb. Během dalšího vývoje došlo k rozpadu bočního svalu a jeho rozdělení a jednotlivé svaly hlavy, trupu a končetin."
+  },
+  {
+    "n": 20,
+    "id": 191,
+    "pojem": "pericard",
+    "význam": "neboli osrdečník, je blána, která se skládá ze 2 listů. Ty se uzavírají a tvoří kuželovitý vak. Uvnitř tohoto vaku je srdce. Vakovitý obal srdce, díky němu srdce nasedá na bránici a vytváří otisk na obou plicích. Perikard je nepružný, nemůže být roztažen při rychlém zvýšení tlaku v perikardové dutině. Skládá se ze dvou listů, lamina visceralis a lamina parietalis."
+  },
+  {
+    "n": 20,
+    "id": 192,
+    "pojem": "purkyňova vlákna",
+    "význam": "nervová vlákna uvnitř svaloviny srdečních komor, která vznikají větvením Tawarových ramének. Purkyňova vlákna jsou tedy součást převodního systému srdečního a jejich úkolem je převádět vzruchy na myokard srdečních komor."
+  },
+  {
+    "n": 20,
+    "id": 193,
+    "pojem": "interkalární disky",
+    "význam": "struktura myokardu, které tvoří buněčné spoje. Jsou na rozhraní mezi jednotlivými buňkami srdečního svalu, kde plní funkci propojovacích komplexů. V mikroskopu se jeví jako tmavé struktury nabývajících podoby přímých linií nebo schodů. U schodovitého typu lze rozlišit část transverzální, která jde v pravých úhlech s řetězcem a část laterální, jdoucí podél myofibril."
+  },
+  {
+    "n": 20,
+    "id": 194,
+    "pojem": "hrudní mízovod",
+    "význam": "má vzhled slabší žíly a po průchodu bránicí jde obvykle podél hrudní páteře k levostrannému soutoku podklíčkové žíly a hrdelní žíly. (Prakticky ústí do horní duté žíly.) Mízní cévy se spojují ve dva hlavní mízní kmeny: hrudní mízovod, který sbírá mízu z dolní poloviny a levé horní čtvrtiny těla a otevírá se do levého žilního úhlu, a pravý mízovod, který sbírá mízu z pravé horní čtvrtiny těla a otevírá se do pravého žilního úhlu. Při zpomalení nebo přerušení odtoku mízy dochází k otokům."
+  },
+  {
+    "n": 20,
+    "id": 195,
+    "pojem": "hemolymfa",
+    "význam": "počeštěné podobě krvomíza, je tělní tekutina řady skupin bezobratlých živočichů, včetně hmyzu, tedy i motýlů. Hmyz má otevřenou krevní soustavu, hemolymfa v těle proudí volně mezi orgány. Cirkulace hemolymfy je zajištěna pomocí hřbetní cévy, která ji pumpuje směrem k hlavě, v níž jsou umístěny centrální uzliny nervové soustavy. Funkcí hemolymfy v těle je především transport živin, hormonů a dalších látek. Jelikož dýchání u hmyzu probíhá prostřednictvím vzdušnic neboli trachejí, neslouží hemolymfa k transportu kyslíku."
+  },
+  {
+    "n": 20,
+    "id": 196,
+    "pojem": "tlak krve",
+    "význam": "Srdce pumpuje krev přes cévy a tím vytváří tlak – krevní tlak. Způsobuje ho protékající krev na stěnu cévy. Hodnota tlaku krve je různá v různých částech krevního řečiště. Jeho sílu nejlépe změříme na hlavní tepně vycházející ze srdce, i proto krevní tlak měříme právě na pažích. Naměřené hodnoty se udávají v milimetrech rtuťového sloupce – například 125/80 mmHg."
+  },
+  {
+    "n": 20,
+    "id": 197,
+    "pojem": "hematokrit",
+    "význam": "Krevní obraz – základní parametry červené krvinky a udává poměr objemu erytrocytů k celkovému objemu krve. Hematokrit můžeme zjistit buď centrifugací nesrážlivé krve, nebo na analyzátorech krvinek. Hematokrit ukazuje podíl erytrocytů na celkovém objemu krve."
+  },
+  {
+    "n": 20,
+    "id": 198,
+    "pojem": "RH faktor",
+    "význam": "Rozdělení krevních skupin. Autozomálně dědičný. Systém Rh faktoru je založen na přítomnosti nebo nepřítomnosti určitých molekul nebo znaků v krvi. Nejdůležitější z nich se nazývá „D“. Podle přítomnosti rozdělujme Rh pozitivní nebo chyběním Rh negativní určitých znaků na povrchu červených krvinek. Většina populace je Rh pozitivní. Význam Rh faktoru se uplatňuje v těhotenství. Za určitých okolností může neshoda Rh faktoru u matky a dítěte vyvolat poruchu, která vede k rozpadu červených krvinek v krevním oběhu plodu nebo novorozence. Dd a Dd = může být potomek Rh negativní. Pokud je matka negativní, vytváří protilátky proti pozitivní. Otec Rh pozitivní = potomek Rh pozitivní + matčiny protilátky. Proto se zjištuje Rh faktor pro potřebnou blokaci."
+  },
+  {
+    "n": 20,
+    "id": 199,
+    "pojem": "homeostáza",
+    "význam": "Udržování stálosti vnitřního prostředí organismu (např. stálá teplota, pH, koncentrace iontů apod.). Je nezbytná pro normální činnost organismu. Znamená to samočinné udržování hodnoty nějaké veličiny na přibližně stejné hodnotě. U živých organismů je to schopnost udržovat stabilní vnitřní prostředí, které je nezbytnou podmínkou jejich fungování a existence, i když se vnější podmínky mění."
+  },
+  {
+    "n": 20,
+    "id": 200,
+    "pojem": "glykémie",
+    "význam": "Koncentrace glukózy v krvi = udržována v rozmezí 3,9–5,6 mmol/l. Je přísně regulována inzulinem, který glykémii snižuje, a hormony – glukagonem, katecholaminy, glukokortikoidy a růstovým hormonem, které glykémii zvyšují. Na regulaci se významně podílejí i játra. Udržení glykémie je nezbytné pro CNS a tkání a buněk. Pokles glykémie pod hodnotu 3,2 mmol/l = hypoglykémie = ohroženo zásobování mozkové tkáně glukózou. Výskyt (onemocnění, předávkování antidiabetik, dlouhodobé hladovění, u dědičných metabolických poruch). Hypoglykémie je provázena neklidem, opocením a třesem, při dalším poklesu glykémie dochází k poruše vědomí.Glykémie zvýšená nad rozmezí = hyperglykémie. (Základní projeve diabetes mellitus/ Přechodná nediabetickou hyperglykémií."
+  },
+  {
+    "n": 21,
+    "id": 201,
+    "pojem": "antigen",
+    "význam": "Antigeny (Ag) jsou látky, které imunitní systém (IS) rozpozná a reaguje na ně. Antigen znamená cizorodé částice (buněk, solubilních látek) a různorodost ve velikosti i chemickém složení."
+  },
+  {
+    "n": 21,
+    "id": 202,
+    "pojem": "pyrogeny",
+    "význam": "Pyrogen je taková sloučenina, která v našem organizmu vede ke zvýšení tělesné teploty. Dojde k tomu podrážděním termoregulačního centra v hypothalamu, které přenastaví žádoucí teplotu organizmu na vyšší hodnotu."
+  },
+  {
+    "n": 21,
+    "id": 203,
+    "pojem": "interferony",
+    "význam": "Interferony jsou glykoproteiny nespecifické imunity, které působí v obraně proti virovým infekcím, proti tvorbě nádorových klonů a podpoře imunitního systému. Genetická informace pro vznik a produkci interferonů se nachází ve všech buňkách. Působí parakrinně (tj. na buňky ve svém okolí)."
+  },
+  {
+    "n": 21,
+    "id": 204,
+    "pojem": "histamin",
+    "význam": "Histamin je jedním z primárních mediátorů zánětu. Je uložen v mastocytech (žírných buňkách) a v granulích bazofilů, odkud je uvolňován vlivem různých stimulů: zářením, alergeny, farmaky aj. Nejlépe je prozkoumána jeho role v akutní anafylaktické reakci na přítomnost alergenu, kdy je uvolněn po vazbě alergenu na IgE protilátky. Následuje reakce zprostředkovaná především stimulací H1-receptorů: dochází k vazodilataci malých arteriol a kapilár společně se zvýšením permeability cévní stěny s následnou tvorbou edémů, v plicích dochází k bronchokonstrikci."
+  },
+  {
+    "n": 21,
+    "id": 205,
+    "pojem": "protilátka",
+    "význam": "Během imunitní odpovědi jsou syntetizovány a vylučovány plazmatickými buňkami (B-lymfocyty). Protilátka (imunoglobulin) je bílkovina, kterou organismus vytváří na svoji obranu proti složitějším látkám, které organismus rozeznává jako cizorodé, takové látky nazýváme antigeny. Molekula imunoglobulinu má tvar Y a skládá se ze dvou lehkých řetězců a dvou těžkých řetězců, které jsou navzájem spojeny pomocí disulfidových můstků. 5 tříd: IgA, IgG, IgD, IgE a IgM."
+  },
+  {
+    "n": 21,
+    "id": 206,
+    "pojem": "imunitní paměť",
+    "význam": "schopnost imunitního systému rychle a specificky rozpoznat v těle antigen, se kterým se již dříve setkal, a zahájit odpovídající imunitní reakci. Zpravidla se jedná o sekundární, terciární a další následující imunitní odpovědi na stejný antigen, při opakovaném setkání s patogenem je odpověď efektivnější a rychlejší po každém „boji“ se část cytotoxických T lymfocytů a aktivních B lymfocytů uchová jako „paměťové buňky“, které je možné při opakované expozici stejnému patogenu rychle reaktivovat."
+  },
+  {
+    "n": 21,
+    "id": 207,
+    "pojem": "imunizace",
+    "význam": "Imunizace posílení specifické látkové, méně často i buněčné imunity. Pasivní dopravení hotových protilátek do těla (očkování kojení, palcenta), aktivní dopravení oslabeného, mrtvého, části patogenu (virus, bakterie). V souvislosti s očkováním znamená proces, kdy do lidského (ale i zvířecího) těla je zaveden mikroorganismus (mikrob, bacil, virus), který byl předtím umrtven teplem nebo chemickou látkou, oslaben nebo jiným způsobem upraven, aby nevyvolal vlastní onemocnění, ale pouze tvorbu tzv. ochranných protilátek."
+  },
+  {
+    "n": 21,
+    "id": 208,
+    "pojem": "dendritická buňka",
+    "význam": "Dendritické buňky patří mezi nejúčinnější antigen prezentující buňky a jsou spojovacím článkem mezi nespecifickou a specifickou imunitou. Dendritické buňky vznikají jako ostatní imunitní buňky z hematopoetické kmenové buňky a mají schopnost fagocytózy"
+  },
+  {
+    "n": 21,
+    "id": 209,
+    "pojem": "patogen",
+    "význam": "Patogen (též etiologické agens, patogenní agens, choroboplodný zárodek nebo původce nemoci) je biologický faktor (činitel), který může zapříčinit onemocnění hostitele, který může narušit normální fyziologické procesy mnohobuněčného organismu. Za patogen považujeme všechny chorobné činitele (živočichové, prvoci, houby, bakterie, viry, priony)"
+  },
+  {
+    "n": 21,
+    "id": 210,
+    "pojem": "alergie",
+    "význam": "Alergie je patologická (nepřiměřená) reakce imunitního systému na zevní noxy – alergeny, které jsou běžnou součástí našeho okolí (pyly, plísně, zvířata, potraviny, hmyzí bodnutí aj.). Alergeny jsou většinou látky bílkovinné povahy."
+  },
+  {
+    "n": 22,
+    "id": 211,
+    "pojem": "práce na kyslíkový dluh",
+    "význam": "při fyzické činnosti tělo potřebuje více kyslíku, než jsme schopni přijmout, proto naše tělo začne získávat energii převážně anaerobní glykolýzou, při té vzniká tzv. laktát; Práce na kyslíkový dluh umožní v daném okamžiku velmi intenzivní výkon. Po jeho skončení přetrvává hluboké, rychlé dýchání a zrychlená srdeční činnost zabezpečující zvýšenou dodávku kyslíku."
+  },
+  {
+    "n": 22,
+    "id": 212,
+    "pojem": "hlasivky",
+    "význam": "hlasivkové vazy a svaly, hlasivková řasa, připevněny na hlasivkové chrupavce (zúžená část hrtanu); čím delší hlasivka, tím hlubší tón"
+  },
+  {
+    "n": 22,
+    "id": 213,
+    "pojem": "pleurální dutina",
+    "význam": "prostor mezi poplicnicí a pohrudnicí; tento prostor je nepatrný a v dutině je nižší tlak než v okolí, tento podtlak zabraňuje kolapsu měkkých plic a umožňuje jejich naplnění vzduchem při nádechu (mechanika dýchání)"
+  },
+  {
+    "n": 22,
+    "id": 214,
+    "pojem": "vzdušnice",
+    "význam": "dýchací orgány členovců; jsou to bohatě větvené trubice, kterými je do těla přiváděn vzduch; vzdušnice mají záklopky řízené svaly, to umožňuje hmyzu vyhnout se potopení pod vodu, ale také zabraňuje vysušení"
+  },
+  {
+    "n": 22,
+    "id": 215,
+    "pojem": "astma",
+    "význam": "Průdušky a průdušinky mají stěny pokryté proužky svalů; při astmatu se stahují a zužují cesty pro průchod vzduchu. Dochází k otoku sliznic dýchacích cest a k tvorbě hlenu; vyznačuje se těžkým dýcháním, dušností a záchvatovými stavy; reakce na --> Specifické: pylová zrna, zvířecí srst a alergeny, roztoči, vzdušné plísně, potraviny, hmyzí jedy... , --> Nespecifické: cigaretový kouř, křídový prach, skelná vata, smog, mlha, chlad, tělesná a duševní námaha, silné emoce"
+  },
+  {
+    "n": 22,
+    "id": 216,
+    "pojem": "vitální kapacita plic",
+    "význam": "součet dechového objemu, inspiračního rezervního objemu a exspiračního rezervního objemu (maximální nádech – maximální výdech); maximální množství možného vdechnutého vzduchu závisí na okolnostech (výška těla, pohlaví, trénovanost), ale běžná hodnota se pohybuje okolo 4 litrů"
+  },
+  {
+    "n": 22,
+    "id": 217,
+    "pojem": "dechový objem",
+    "význam": "respirační objem, objem jednoho běžného vdechu, cca 0,5 l"
+  },
+  {
+    "n": 22,
+    "id": 218,
+    "pojem": "vzdušné vaky",
+    "význam": "dýchací orgány u ptáků obvykle 5 párů. Snižují hustotu těla a umužnují dvojité okysličení krve v plicích. Při letu je dýchání závislé na mávání křídel, přičemž je vzduch nasáván a vytlačován z plicních vaků."
+  },
+  {
+    "n": 22,
+    "id": 219,
+    "pojem": "řasinkový epitel",
+    "význam": "je to cylidrický epitel; na svém povrchu má často jemné chloupky; je s jím vystána dýchací soustava; jeho funkce je posouvání hlenu směrem do plic a tím zbavování se zachycených cizorodých částic"
+  },
+  {
+    "n": 22,
+    "id": 220,
+    "pojem": "skřele",
+    "význam": "žaberní aparát je uložen v žaberní dutině, která je kryta plochými párovými skřelovými kostmi, který chrání žábry před poškozením. Jejich pohyby napomáhají dýchání"
+  },
+  {
+    "n": 23,
+    "id": 221,
+    "pojem": "pobřišnice",
+    "význam": "(peritoneum) je tenká, průsvitná blána, která vystýlá dutinu břišní a část dutiny pánevní a obaluje většinu orgánů, které jsou v ní uložené. Patří mezi tzv. serózy, ohraničení původní pravé tělní dutiny coelomu."
+  },
+  {
+    "n": 23,
+    "id": 222,
+    "pojem": "dentice",
+    "význam": "počet a uspořádání zubů jako celku v dutině ústní (chrup). Primární dentice (mléčný chrup) vyrůstá od cca půl roku života dítěte, 20 zubů, nahrazena sekundární denticí (trvalý chrup), 32 zubů, též i prořezávání zubů"
+  },
+  {
+    "n": 23,
+    "id": 223,
+    "pojem": "mucin",
+    "význam": "mucin je označení pro velkou skupinu glykoproteinů, které jsou produkované epitelovou tkání u většiny zvířat. Jsou součástí cytoplazmatické membrány, ale i mezibuněčné hmoty"
+  },
+  {
+    "n": 23,
+    "id": 224,
+    "pojem": "acinus",
+    "význam": "česky lalůček, jaterní acinus tvořen z hepatocytů a tvoří základní funkční jednotku jater, dvojí cévní zásobení, vznik žlučových kanálků, acinus obecně je název pro základní strukturu žláz s vnější sekrecí,"
+  },
+  {
+    "n": 23,
+    "id": 225,
+    "pojem": "bilirubin",
+    "význam": "odpadní produkt metabolismu hemoglobinu. Z hemu vzniká biliverdin (slezina, kosní dřeň, játra) a ten je redukován na bilirubin (hlavně v hepatocytech) dále je vylučován do žluči a s ní přes střevo se stolicí ven z těla. Jeho obsah v krvi se může zvyšovat jako příznak určitých onemocnění (žloutenka)"
+  },
+  {
+    "n": 23,
+    "id": 226,
+    "pojem": "gastrovaskulární soustava",
+    "význam": "neboli láčka je neprůchozí trávicí dutina s jedním přijímacím a zároveň vyvrhovacím ústním otvorem. Vyskytuje se u žabernatek a žahavců – vyplňuje téměř celé jejich tělo a zasahuje i do chapadel. Kromě trávení také rozvádí živiny po těle."
+  },
+  {
+    "n": 23,
+    "id": 227,
+    "pojem": "polygaster",
+    "význam": "složený žaludek přezvýkavců (podřád sudokopytníků, např. kráva, ovce, koza nebo antilopa), tráví potravu ve dvou krocích, nejprve ji rozžvýkají a spolknou a poté napůl strávenou směs zvrátí zpět do úst, kde ji znovu sežvýkají. Bachor, čepec, kniha, slez (vlastní žaludek)"
+  },
+  {
+    "n": 23,
+    "id": 228,
+    "pojem": "mimotělní trávení",
+    "význam": "když živočichové vylučují do potravy trávicí šťávy. Šťávy potravu částečně natráví a změní ji na tekutinu, která je pak vysávána.např. pavouci"
+  },
+  {
+    "n": 23,
+    "id": 229,
+    "pojem": "trávenina",
+    "význam": "Trávenina je polotekutá hmota tvořená částečně strávenou potravou, vodou, chlorovodíkovou kyselinou a dalšími trávicími enzymy. Sousto, které prošlo žaludkem je nazýváno tráveninou"
+  },
+  {
+    "n": 23,
+    "id": 230,
+    "pojem": "gastrin",
+    "význam": "skupina tkáňových peptických hormonů, které vznikají v G- buňkách ve sliznici žaludku a dvanáctníku. Stimulují hlavně tvorbu trávicích enzymů, HCl, as stimulace pohybu tS"
+  },
+  {
+    "n": 24,
+    "id": 231,
+    "pojem": "osmolarita",
+    "význam": "množství molů určité látky, které přispívají k osmotickému tlaku, vodní živočichové – hlavně ryby ji dokážou regulovat a je pro ně důležitým aspektem"
+  },
+  {
+    "n": 24,
+    "id": 232,
+    "pojem": "osmokonformer",
+    "význam": "organismy žijící v mořském prostředí, udržují si vnitřní prostředí, které je izotonické s jejich vnějším prostředím - osmotický tlak buněk organismu se rovná osmotickému tlaku jejich okolního prostředí.mají schopnost udržovat vnitřní osmotický tlak těla bez ohledu na vnější prostředí a s nižšími energetickými nároky, osmolarita buněk organismů se rovná osmolaritě vnějšího prostředí. opakem osmoregulátor (organismus musí zabránit tomu, aby koncentrace rozpuštěných látek v jeho buňkách byla příliš vysoká nebo příliš nízká. Osmoregulace zajišťuje snesitelný obsah vody a u mnoha zvířat téměř konstantní stav v těle (homeostáza)"
+  },
+  {
+    "n": 24,
+    "id": 233,
+    "pojem": "malpigické tělísko",
+    "význam": "část nefronu, složena z Bowmanova váčku a glomerulu – dohromady tvoří Malpigické tělísko, filtrační štěrbina, ze které filtrací krve vzniká primární moč – ultrafiltrát"
+  },
+  {
+    "n": 24,
+    "id": 234,
+    "pojem": "podocyty",
+    "význam": "buňka, která se nachází na kapilárárách , které tvoří glomerulus a jsou uloženy v Bowmanově váčku - mají dlouhé tzv. chodidlové procesy zvané pedicely, pro které jsou buňky pojmenovány = táhnou se od podocytů až ke kapilárám glomerulu které obklopují a vytvářejí filtrační štěrbiny"
+  },
+  {
+    "n": 24,
+    "id": 235,
+    "pojem": "bazální membrána",
+    "význam": "vrstvička extracelulárního materiálu oddělující epitelovou tkáň od pojivové, je důležitá pro interakci, uložení a orientaci epitelových buněk – pokud dojde k jejímu narušení, dochází k invazi epitelových buněk do vazivové tkáně, může obsahovat póry tam, kde je potřebná funkční komunikace mezi oběma tkáněmi"
+  },
+  {
+    "n": 24,
+    "id": 236,
+    "pojem": "amonotelní organismy",
+    "význam": "organismy žijící ve vodě – vodní bezobratlí, ryby, obojživelníci, vylučují amoniak jako odpadní produkt dusíkového metabolismu – NH3 – vylučování difúzí do okolní vody, amoniak je ve větších koncentracích toxický"
+  },
+  {
+    "n": 24,
+    "id": 237,
+    "pojem": "ureotelní organismy",
+    "význam": "savci (hlavně placentální) vylučují dusík ve formě močoviny – je syntetizována v játrech pomocí močovinového cyklu, rozpustná ve vodě, při vysoké koncentraci působí jako velmi účinné denaturační činidlo bílkovin"
+  },
+  {
+    "n": 24,
+    "id": 238,
+    "pojem": "urikotelní organismy",
+    "význam": "vejcorodí – plazi, ptáci a suchozemský hmyz (mají omezený kontakt s vodou) – umožnění vejcorodosti – vylučují dusík ve formě kyseliny močové – vzniká odbouráváním purinů, velmi málo rozpustná ve vodě, při vyšších koncentracích v roztoku krystalizuje a z těla může být vyloučena v pevné formě – je hlavním odpadním produktem u živočichů, kteří mají omezený přístup k vodě a musí jí šetřit"
+  },
+  {
+    "n": 24,
+    "id": 239,
+    "pojem": "ultrafiltrace",
+    "význam": "proces tlakové membránové separace při níž voda prochází membránou, zatímco částice, koloidy, mikroorganismy, bakterie a viry jsou odmítány, ale neodstraní ionty a malé molekuly, průtok přes membránu je dosažen pomocí tlakového gradientu mezi vnějšími a vnitřními stěnami membránové struktury"
+  },
+  {
+    "n": 24,
+    "id": 240,
+    "pojem": "urogenitální soustava",
+    "význam": "močopohlavní soustava – vylučovací a rozmnožovací soustava, orgány močového a pohlavního ústrojí plní dvě rozdílné funkce, ale z hlediska umístění v těle a z hlediska ontogeneze jsou spjaty, morfologicky jsou tvořeny systémem různě upravených kanálků, kanálky vylučovacích orgánů původně (tj. u předků obratlovců) pravděpodobně vznikly z kanálků odvádějících pohlavní buňky, u dnešních obratlovců mohou naopak některé vývodní cesty rozmnožovacích orgánů vznikat z vývodných cest močových - kloaka, močové ústrojí, pohlavní ústrojí"
+  },
+  {
+    "n": 25,
+    "id": 241,
+    "pojem": "axostyl",
+    "význam": "mikrotubulární tyčinka z vzájemně propojených mikrotubulů procházející celou buňkou, někdy až do cytoplazmatického výběžku, a rozšířený do lžícovitého tvaru kryje jádro z jedné strany; druhou stranu kryje druhá mikrotubulární struktura. Oporný orgán u bičíkovců"
+  },
+  {
+    "n": 25,
+    "id": 242,
+    "pojem": "ekdyzon",
+    "význam": "Ekdyson je steroidní prohormon hmyzu, který vzniká v předohrudní žláze a spolu s juvenilním hormonem ovlivňuje hmyzí životní cyklus. Jeho aktivací totiž vzniká ekdysteron, jenž způsobuje, že se pokožkové buňky začnou zvětšovat, dělit a rozpadat, čímž je umožněno svlékání hmyzu."
+  },
+  {
+    "n": 25,
+    "id": 243,
+    "pojem": "exoskelet",
+    "význam": "Exoskelet neboli vnější kostra je v biologii označení pro kostru, která se nachází zvnějšku organismu a poskytuje mu tak stabilní oporu a ochranu. Na rozdíl od strunatců, kteří mají vnitřní kostru, má většina členovců a jiných zvířat vnější kostru."
+  },
+  {
+    "n": 25,
+    "id": 244,
+    "pojem": "plakoidní šupiny",
+    "význam": "Šupiny paryb, nacházejí na povrchu těla Jsou utvářeny podobně jako zuby savců (trnovitý výběžek je kryt sklovinou), zpravidla otočené směrem k ocasu -\n díky tomu je povrch těla krytý těmito šupinami hladký a drsný zároveň. Jejich primární funkcí je především ochrana."
+  },
+  {
+    "n": 25,
+    "id": 245,
+    "pojem": "výměna tepla s okolím",
+    "význam": "výměna tepla s okolím je jedním ze způsobů přenosu energie. Spočívá v tepelné výměně, což je termodynamický děj, při kterém dochází k výměně tepla mezi dvěma tělesy s různou teplotou. Tepelná výměna vždy probíhá tak, že teplejší těleso předává část své vnitřní energie chladnějšímu tělesu. Rozděluje Radiace – sálání 60 % (přenos tepla bez dotyku), evaporace – odpařování 25 % (produkce potu, odpařování vody), konvence – proudění 12 % (přenos tepla prouděním vzduchu nebo kapaliny), kondukce – vedení 3 % (přenos tepla dotykem pevného tělesa)"
+  },
+  {
+    "n": 25,
+    "id": 246,
+    "pojem": "nociceptory",
+    "význam": "receptory vnímající bolest, obvykle volná nervová zakončení"
+  },
+  {
+    "n": 25,
+    "id": 247,
+    "pojem": "keratinocyty",
+    "význam": "Nejpočetnější skupina buněk kůže vyskytující se v epidermis a vlasových folikulech. Keratinocyty tvoří 90 % všech buněk nejsvrchnější vrstvy kůže, epidermis. Rozdíly v síle a pevnosti kůže například na ploskách nohou, krku či obličeji jsou dány právě rozdílem obsahu keratinových bílkovin produkovaných rozdílnými typy keratinocytů."
+  },
+  {
+    "n": 25,
+    "id": 248,
+    "pojem": "melanocyty",
+    "význam": "čili pigmentová buňka je typ živočišných buněk roztroušených ve svrchní vrstvě pokožky a ve vlasových folikulech, mimo to však také v oční živnatce, vnitřním uchu, mozkových plenách, kostech i v srdci. Melanocyty produkují pigment melanin a jsou neuroektodermálního původu."
+  },
+  {
+    "n": 25,
+    "id": 249,
+    "pojem": "homoiotermní a poikiotermní",
+    "význam": "homoiotermní – živočich se stálou krevní teplotou; teplota jeho těla není závislá na teplotě okolního prostředí. Poikiotermní – živočich s nestálou krevní teplotou; teplota jeho krve závisí na teplotě vnějšího prostředí"
+  },
+  {
+    "n": 25,
+    "id": 250,
+    "pojem": "apokrinní žlázy",
+    "význam": "Jsou to tubulózní žlázy, které vyvádí své výměšky na povrch pokožky. rozdělují se na potnní a aromatické."
+  },
+  {
+    "n": 26,
+    "id": 251,
+    "pojem": "projekční mozkové dráhy",
+    "význam": "propojují centra v mozku na různých úrovních, vzestupné (senzitivní a smyslové) a sestupné (pyramidové a mimopyramidové, kmenové)"
+  },
+  {
+    "n": 26,
+    "id": 252,
+    "pojem": "1. a 2. signální soustava",
+    "význam": "1. signální soustava – reakce na smyslové vjemy, podnětem změna prostředí, předmět, jev, 2. signální soustava reakce na abstraktní podněty = slovní pojmenování 1. signálu, základem abstrakt. myšlení, zobecňování, hledání souvislostí, schopnost vytvářet podmíněné reflexy, řeč, myšlení \n Pomocí této soustavy reagujeme na životní situace, tedy na fyzikální, chemické nebo biologické jevy. Jsou základem pro konkrétní myšlení. Druhá signální soustava je pouze u člověka. Signálem pro vytvoření podmíněných reflexů jsou podněty abstraktní. Zejména slova. Základem druhé signální soustavy je myšlení."
+  },
+  {
+    "n": 26,
+    "id": 253,
+    "pojem": "podmíněné reflexy",
+    "význam": "Podmíněné reflexy vznikají během života, kdy je organismus získává. propojením 2 nebo více vjemů, které spolu původně nesouvisí, Mohou být pouze dočasné. Opakováním, učením se reflexy posilují naopak, když je nepoužíváme často, tak reflex slábne."
+  },
+  {
+    "n": 26,
+    "id": 254,
+    "pojem": "vyšší nervová činnost",
+    "význam": "podmíněné reflexy, signál = podnět podmíněného reflexu, signální soustava = soubor signálů určitého druhu, paměť = uložení info v mozku v podobě paměťových stop – ty se tvoří učením; několik druhů\n Funkce mozku vytvářející myšlení, vnímání, paměť a emoce."
+  },
+  {
+    "n": 26,
+    "id": 255,
+    "pojem": "GABA",
+    "význam": "kys, gamaaminomáselná, hlavní inhibiční neurotransmiter v CNS (např. v mozečku, baz. Gangliích…), zpomaluje aktivitu v mozku a má uklidňující účinek, léčba úzkosti, stresu, deprese nebo problémů se spánkem, riziko zneužití, Vzniká dekarboxylací glutamátu a reakce je katalyzována enzymem glutamátdekarboxylázou. GABA patří mezi biogenní aminy. Vazba GABA na GABA receptory = hyperpolarizace buňky"
+  },
+  {
+    "n": 26,
+    "id": 256,
+    "pojem": "acetylcholin",
+    "význam": "Váže se na receptor a funguje jako neurotransmiter, většinou excitační, paměťové stopy, synapse kosterního svalstva, Jedná se o ester kys. Octové s cholinem. Často zprostředkovává přenos vzruchu v CN"
+  },
+  {
+    "n": 26,
+    "id": 257,
+    "pojem": "bazální ganglia koncového mozku",
+    "význam": "šedá hmota koncového mozku zevně od thalamu, zanořené do bílé mozkové hmoty, vývojově staré struktury, vytváření a řízení pohybu a funkcích limbického systému"
+  },
+  {
+    "n": 26,
+    "id": 258,
+    "pojem": "amygdala",
+    "význam": "Párová mozková struktura obratlovců, umístěna ve střední části spánkového laloku. Jedná se o součást Papezova emočníh okruhu a je propojena drahami s dalčími částmi limbického systému a také s mozkovou kůrou. Amygdala je důležitá pro uchování paměťových stop. Ovlivňuje to jak se chováme když máme strach nebo naopak radost."
+  },
+  {
+    "n": 26,
+    "id": 259,
+    "pojem": "hematoencefalická bariéra",
+    "význam": "Bariéra, která odděluje vnitřní prostředí mozku obratlovců od CS v těle a umožňuje jen omezený transport látek mezi mozkovou tkání a krví. Je to možné díky tomu, že buňky cévního endotelu jsou opatřeny výrazně vyvinutými těsnými spoji, které zamezují vzniku pórů mezi buňkami.\n Tvořena z vrstvy endotelu mozkových kapilár = bazální membrána a z vrstvy astrocytů"
+  },
+  {
+    "n": 26,
+    "id": 260,
+    "pojem": "mozkový kmen",
+    "význam": "navazuje na hřbetní míchu, zahrnuje prodlouženou míchu, Varolův most a střední mozek. Řada společných drah a jader probíhají skrz"
+  },
+  {
+    "n": 27,
+    "id": 261,
+    "pojem": "makula",
+    "význam": "senzorická oblast kde jsou vláskové buňky, které registrují úhlové zrychlení, nachází se v kupulách, kde jsou uloženy v ampulách, kde se rozšiřují do 3 polokruhovitých kanálků. Dále zde nalézáme smyslové buňky makuly a sakulu, které jsou drážděné otolity a tím reagují na příčné vertikální, změny polohy hlavy vůči působení tíhové síly reakce na lineární zrychlení (pád, stoupání), změnu polohy hlavy vzhledem k trupu, udržení vzpřímeného postoje a rovnováhy těla, rovnoměrný pohyb nevnímáme (pokud nekontrolujeme zrakem)"
+  },
+  {
+    "n": 27,
+    "id": 262,
+    "pojem": "ampula, krista",
+    "význam": "Kinetické čidlo – analýza rotačního pohybu hlavy, reagují na úhlové zrychlení, zaznamenávají pouze zrychlení pohybu (akcelerace – decelerace), rovnoměrný pohyb neregistruje, 3 polokruhovité chodby umístěných v navzájem kolmých rovinách – prouděním endolymfy vychylují a dráždí ohýbáním vlásky smyslových buněk jakýmkoliv směrem (skládání sil), na začátku každého kanálku rozšířená část ampula, v její stěně ampulární krista se smyslovým epitelem z vláskových buněk, organizované v kupulách"
+  },
+  {
+    "n": 27,
+    "id": 263,
+    "pojem": "vláskové buňky",
+    "význam": "smyslové buňky pro příjem sluchových podnětů v Cortiho orgánu, který je uložený na bazální membráně a ve vestibulárním systému v kristách v ampule kinetického čidla a v makule (v sakulu a utrikulu, drážděné otolity), reagují na gravitační a lineární zrychlení"
+  },
+  {
+    "n": 27,
+    "id": 264,
+    "pojem": "statocysta",
+    "význam": "orgány rovnováhy, duté váčky, na vnitřní straně epitel s brvami citlivými na tlak, dutina obsahuje určitý typ anorganické látky (statolit), tělo v prostoru orientováno, u medúz statocysta (orgán sloužící k určování polohy), v oblastech na obvodu zvonu, tzv. ropáliích, u měkkýšů (známé u plžů, mlžů, hlavonožců) se statolitem nebo se statokoniemi (CaCO3), váček se statolitem"
+  },
+  {
+    "n": 27,
+    "id": 265,
+    "pojem": "Lorenziniho ampuly",
+    "význam": "smyslový orgán paryb, na rypci, malé otvory, které vedou do na konci se rozšiřujících trubiček, slanost vody, změnu teploty, hloubku, detekce elektrických impulsů vysílaných jinými živočichy, které vznikají svalovou činností, kompas k orientaci ve vodě"
+  },
+  {
+    "n": 27,
+    "id": 266,
+    "pojem": "otolity",
+    "význam": "v utrikulu a sakulu útvary makula s vláskovitými buňkami s rosolivitým obalem a s otolity (krystaly kalcitu (CaCO3), vlivem gravitace se přitisknou otolity k makule a podráždí receptory, reaguje na gravitační a lineární zrychlení."
+  },
+  {
+    "n": 27,
+    "id": 267,
+    "pojem": "zorné pole",
+    "význam": "část prostoru, které je oko schopno zachytit a ze kterého do něj přicházejí světelné paprsky. Číselným vyjádřením zorného pole je zorný úhel. Celkový zorný úhel oka ve vodorovné rovině je tedy asi 140°. Ve svislé rovině ve směru dolů je zorný úhel asi 50°, směrem nahoru, kde brání víčko, o trochu méně, závisí na intenzitě osvětlení, velikosti a také barvě pozorovaného bodu."
+  },
+  {
+    "n": 27,
+    "id": 268,
+    "pojem": "rhodopsin, jododpsin",
+    "význam": "základní molekulární princip vidění, rhodopsin – zrakový purpur, komplex bílkoviny opsinu a retinalu (derivát vitaminu A), citlivý na světlo a nacházející se v tyčinkách sítnice komorového oka, dopadem světla rozpad molekuly a vzniká nervový impuls. Jodopsiny v čípcích, barevné vidění (zelená, modrá, červená)"
+  },
+  {
+    "n": 27,
+    "id": 269,
+    "pojem": "mydriáza, mióza",
+    "význam": "zornice má proměnlivý průměr v závislosti na hladkých svalech, jeden zornici se zužu (tzv. mióza), dilatator ji rozšiřuje (mydriáza), rozšíření zornice reflexivní při malém osvětlení a při stresové situaci (sympatickus), zúžení zornice při vysokém osvětlení a při otravě"
+  },
+  {
+    "n": 27,
+    "id": 270,
+    "pojem": "bipolární a gangliové buňky",
+    "význam": "bipolární buňka v sítnici oka napojena na fotoreceptory (tyčinky a čípky) a na druhé straně gangliovými buňkami sítnice, zpracování a převod světelného vjemu"
+  },
+  {
+    "n": 28,
+    "id": 271,
+    "pojem": "juvenilní hormon",
+    "význam": "hormony vznikající v endokrinních žlázách hmyzu. Mají dvě základní úlohy: a) v larválních stadiích brání nástupu předčasné proměny hmyzu která byla smrtelná, tj. vývoji kukel a dospělců b) u dospělců regulují různé procesy související s pářením, vývojem vajíček a jejich kladením."
+  },
+  {
+    "n": 28,
+    "id": 272,
+    "pojem": "serotonin",
+    "význam": "Serotonin je hormon nervové tkáně. Patří mezi základní přenašeče nervových vzruchů.Účastní se procesů které se podílí na měně nálad při jeho nedostatku se dochází ke snížení přenosů nervových vzruchů a může dojít ke změnám nálad, depresím, poruchám spánku."
+  },
+  {
+    "n": 28,
+    "id": 273,
+    "pojem": "dopamin",
+    "význam": "Dopamin bývá někdy zaměňován se serotoninem. Oba jsou neurotransmitery, ale zatímco serotonin působí jako regulátor nálady, dopamin je přímo napojený na centra odměn v mozku, která jsou zodpovědná za naše emoce a motivaci. Funguje tak, že v reakci na určité podněty nebo aktivity dochází ke zvýšení hladiny dopaminu, která způsobuje vznik příjemných pocitů."
+  },
+  {
+    "n": 28,
+    "id": 274,
+    "pojem": "endorfiny",
+    "význam": "Endorfin bývá také nazýván jako hormon štěstí, protože se uvolňuje do mozku a způsobuje dobrou náladu, pocity štěstí, tlumí bolest, ovlivňuje výdej některých hormonů, vyplavuje se při stresu a svalové zátěži (při porodu, sportování, sexu)"
+  },
+  {
+    "n": 28,
+    "id": 275,
+    "pojem": "Fabriciova burza",
+    "význam": "orgán u ptáků v oblasti kloaky, v němž dochází k vyzrávání B lymfocytů."
+  },
+  {
+    "n": 28,
+    "id": 276,
+    "pojem": "thymopoietin, thymosin",
+    "význam": "Peptidové hormony brzlíku (thymus), důležité pro normální vývoj imunitního systému"
+  },
+  {
+    "n": 28,
+    "id": 277,
+    "pojem": "G-protein",
+    "význam": "protein který je připevněný na membráně blízko receptoru. Po tom co se hormon nebo neurotransmiter naváže na pro nej specifický receptor dojde ke konformaci G proteinu který vypusí sekundárního posla (zaleží na druhu G proteinu) např. cAMP(funkce alosterického regulátoru) který poté putuje do jadra kde spůsobuje buněčnou odpověd na konkrétní hormon/neurotransmiter. G proteiny tedy složí jako spojky mezi horomony/neurotransmitery a sekundárními posli."
+  },
+  {
+    "n": 28,
+    "id": 278,
+    "pojem": "erytropoetin",
+    "význam": "Cytokin (menší signální protein) který stimuluje produkci (proliferaci a diferenciaci) krvinek. v mládí je syntetizovaný v jatrech poté v kortexu ledvin. V těle není nijak skladován proto musí být při nutné potřebě rychle nasyntetizován"
+  },
+  {
+    "n": 28,
+    "id": 279,
+    "pojem": "pankreozymin",
+    "význam": "Peptidický tkáňový hormon, který je vylučovaný bunkami tenkéhostřeva(enterocyty) když se do dvanácníku dostane trávenina. jeho vyloučení následně stimuluje vylučování pankreatické štávy ze slinivky břišní"
+  },
+  {
+    "n": 28,
+    "id": 280,
+    "pojem": "renin",
+    "význam": "Je o enzym, který je produkovaný a sekretovaný bunkami ledvin (přesněji juxtaglomerulárními buňkami) při poklesu krevního tlaku. Je součástí Renin-anigotenzitového systému který aktivuje (nastartovává). Renin-anigotenzitového systém se stará o homeostázu-zajištujě optimální regulaci krevního tlaku a vodní a minerální prostředí"
+  },
+  {
+    "n": 29,
+    "id": 281,
+    "pojem": "anizogamie",
+    "význam": "u pohlavního rozmnožování, samičí i samčí orgány jsou stejné, liší se pouze velikostí, typ gamet, vajíčko je větší a nepohyblivé, spermatozoid menší a pohyblivý"
+  },
+  {
+    "n": 29,
+    "id": 282,
+    "pojem": "metageneze",
+    "význam": "neboli rodozměna, střídání pohlavní a nepohlavní generace – sporofyt (generace diploidní – nepohlavní, produkce spor) a gametofyt (generace haploidní - pohlavní, produkce pohlavních buněk - gamet, splynutím gamet - diploidní zygota - dále se dělí mitózou), probíhá u rostlin, které se dělí pohlavně"
+  },
+  {
+    "n": 29,
+    "id": 283,
+    "pojem": "ovoviparie",
+    "význam": "neboli vejcoživorodost, jedinci neukládají vajíčka mimo tělo, vývoj mláděte probíhá přímo v těle samice, sníží se tím možnost útoku predátora (plazi, vačnatci)"
+  },
+  {
+    "n": 29,
+    "id": 284,
+    "pojem": "holoblastické a meroblastické vajíčko",
+    "význam": "rýhování vajíčka, holoblastické (nízký nebo žádný obsah žloutku) - alecitální (nemají vůbec žloutek, savci), izolecitální (minimální obsah žloutku, rozptýlen v cytoplazmě, ježovky), mezolecitální (více žloutku, ale stále nebrání rýhování, obojživelníci); meroblastické (vejce se žloutkem) - telolecitální (žloutek rovnoměrně rozšířen po cytoplazmě, ptáci), centrolecitální (žloutek pod povrchem vajíčka a jádro je ve středu, hmyz)"
+  },
+  {
+    "n": 29,
+    "id": 285,
+    "pojem": "vnější oplození",
+    "význam": "oplození které proběhne mimo tělo samice"
+  },
+  {
+    "n": 29,
+    "id": 286,
+    "pojem": "kloaka",
+    "význam": "z lat. cloaca – stoka, orgán některých obratlovců – rozšířená část konečníku, do něhož je vyústěna trávicí, vylučovací a často i rozmnožovací soustava, vzniká embraonálně u všech obratlovců, ale v dospělosti ho mají jen někteří – zejména plazi, žraloci, dvojdyšní (ryby), a ptáci"
+  },
+  {
+    "n": 29,
+    "id": 287,
+    "pojem": "plazmogamie, karyogamie",
+    "význam": "u rozmnožování hub, plazmogamie – splynutí cytoplazmy hyf, karyogamie – splynutí haploidních jader"
+  },
+  {
+    "n": 29,
+    "id": 288,
+    "pojem": "askospory a bazidiospory",
+    "význam": "typy pohlavních (tj. haploidních výtrusů) askospory - výtrusy (8 ks - meioza a pak mitoza) vznikající u vřeckovýtrusných hub ve vřecku, dostanou se ven po otevření nebo rozpadu vřecka, př.: smrže, ucháče, lanýže; bazidiospory - výtrusy u stopkovýtrusných hub, (4 ks meioza) z výtrusnic (bzidií) vyrůstají stopky (sterigmata) a na nich výtrusy (bazidiospory), bazidiospory se z bazidií uvolňují, př.: hřiby, křemenáče, holubinky a vůbec většina hub, známých průměrnému houbaři, u hřibů se bazidie nacházejí na vnitřních plochách rourek, u holubinek na postranních plochách lupenů, tedy pod kloboukem"
+  },
+  {
+    "n": 29,
+    "id": 289,
+    "pojem": "polyandrie",
+    "význam": "způsob párování, při kterém se samice páří s více samci, ale samec pouze s jednou samicí, samec se stará o potomstvo (polygamie) | polyandrie – příklad kukačka – hnízdní parazitismus"
+  },
+  {
+    "n": 29,
+    "id": 290,
+    "pojem": "manželský kanibalismus",
+    "význam": "neboli sexuální kanibalismu, především u bezobratlých, zejména kudlanek a pavouků, samička při nebo po kopulaci sežere samečka"
+  },
+  {
+    "n": 30,
+    "id": 291,
+    "pojem": "choriongonadotropin",
+    "význam": "Je produkován placentou v průběhu těhotenství, kdy stimuluje růst žlutého tělíska, které tvoří estrogeny a progesteron. Jeho přítomnost v krvi nebo moči ženy je průkazem těhotenství a napomáhá sledování jeho průběhu. Při zvýšené hodnotě se může jednat o vícečetné těhotenství a umožňují včasnou diagnózu trisomie 21 (Downova syndromu)"
+  },
+  {
+    "n": 30,
+    "id": 292,
+    "pojem": "spermiogeneze",
+    "význam": "Závěrečná vývojová etapa v dozrávání mužských pohlavních buněk (spermií). Zralá spermie vzniká ze spermatidy, kdy se protahuje jádro, vzniká akrozom, bičík, mění se uspořádání mitochondrií (do krčku, energie pro bičík). Pro proces mají význam Sertoliho buňky."
+  },
+  {
+    "n": 30,
+    "id": 293,
+    "pojem": "zárodečný terčík",
+    "význam": "Místo kruhového tvaru, kde na sebe naléhá ektoderm a entoderm. Je patrné od 2. týdne vývoje embrya. Dvojvrstevný terčík se v průběhu 3. týdne vývoje (diferencuje se vlastní mezoderm) mění v trojvrstevný, tvořený všemi základními zárodečnými listy (ekto, endo a mezoderm)."
+  },
+  {
+    "n": 30,
+    "id": 294,
+    "pojem": "somity",
+    "význam": "(=též primitivní segment) Párovité váčkovité vychlípeniny mezodermu, prvostřeva po stranách chordy. Opakují se v každém tělním článku. Jedná se o typ tělního článkování."
+  },
+  {
+    "n": 30,
+    "id": 295,
+    "pojem": "utajená březost",
+    "význam": "(=též odložená nidace nebo prodloužená březost) Schopnost některých druhů živočichů odložit porod mláďat do pozdější doby, většinou do doby s hojností potravy. Oplodněné vajíčko zůstává ve stadiu blastocysty, a to až do nidace, která probíhá později, než je obvyklé. Živočiší s utajenou březostí: lasice hranostaj, rosomák, panda červená, klokan rudý, medvěd lední nebo lachtan hřivnatý."
+  },
+  {
+    "n": 30,
+    "id": 296,
+    "pojem": "klimakterium",
+    "význam": "(klimax – přechod) Období života, v němž postupně vyhasíná aktivita ženských pohlavních orgánů. Dochází k výrazným hormonálním změnám. Ty jsou provázeny poklesem tvorby pohlavních hormonů. Ve vaječnících postupně přestávají vyzrávat vajíčka, menstruační krvácení se stává nepravidelným, až zcela ustane menopauza. Žena přestává být plodnou."
+  },
+  {
+    "n": 30,
+    "id": 297,
+    "pojem": "spermatogonie",
+    "význam": "(=spermiogonie) Buňka, která je časnou vývojovou fází spermií při spermatogenezi. Jedná se o buňku kulovitého tvaru, která je uložená při bazální membráně semenotvorných kanálků. Dělí se mitózou, a má diploidní obsah chromozomů. Mění se na spermiocyty I. řádu"
+  },
+  {
+    "n": 30,
+    "id": 298,
+    "pojem": "neurální lišta",
+    "význam": "Útvar vznikající v průběhu třetího týdne embryonálního vývoje. Vzniká během procesu tzv. neurulace, neboli tvorby nervové trubice. Buňky neurální lišty migrují z místa svého vzniku a jsou základem mnoha různorodých tkání a typů buněk v celém embryu. Z tohoto důvodu je některými embryology neurální lišta považována za čtvrtý zárodečný list."
+  },
+  {
+    "n": 30,
+    "id": 299,
+    "pojem": "hemoplacentární bariera",
+    "význam": "Placentární bariéra u člověka, která odděluje krev plodu a mateřskou krev v placentě. U donošené placenty je tloušťka hemoplacentární bariéry nejvýše 20 µm."
+  },
+  {
+    "n": 30,
+    "id": 300,
+    "pojem": "období druhého vzdoru",
+    "význam": "Projevuje se v období dospívání, zejména v pubertě, ale někdy i v adolescenci (vzdor vůči rodičům a dalším autoritám)"
+  }
+]
